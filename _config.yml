@@ -14,12 +14,11 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Khoa-Archives # the main title
-
-tagline: A place for archiving  # it will display as the subtitle
+title: Khoa Pham # the main title
+tagline: A place for my archives  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A Jekyll-Chirpy site for archiving my projects and thoughts.
+  A Chirpy site for archiving my projects, thoughts and ideas.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -30,7 +29,6 @@ baseurl: "/my-portfolio"
 
 github:
   username: kdpham-1002 # change to your GitHub username
-
 # twitter:
 #   username: twitter_username # change to your Twitter username
 
@@ -47,6 +45,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://twitter.com/username # change to your Twitter homepage
+
 
 # Site Verification Settings
 webmaster_verifications:
