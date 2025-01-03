@@ -40,8 +40,6 @@ image:
 ## Headings
 
 ```markdown
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
 # H1 — heading
 {: .mt-4 .mb-0 }
 
@@ -53,7 +51,6 @@ image:
 
 #### H4 — heading
 {: data-toc-skip='' .mt-4 }
-<!-- markdownlint-restore -->
 ```
 
 ## Paragraph
@@ -95,8 +92,7 @@ Moon
 
 ## Prompts
 
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
+
 > An example showing the `tip` type prompt.
 {: .prompt-tip }
 
@@ -108,7 +104,7 @@ Moon
 
 > An example showing the `danger` type prompt.
 {: .prompt-danger }
-<!-- markdownlint-restore -->
+
 
 ## Tables
 
