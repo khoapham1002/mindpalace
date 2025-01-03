@@ -22,27 +22,6 @@ bundle exec jekyll serve
 
 <https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-write-a-new-post.md?plain=1>
 
-
-```yaml
-layout: post                                   # Optional
-title: Post Title
-date: YYYY-MM-DD HH:MM:SS +/-TTTT              #-0800 is PST timezone
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]     # Only 2 elements
-tags: [TAG]                                    # lowercase; infinite elements
-author: <author_id>                            # for single entry
-authors: [<author1_id>, <author2_id>]          # for multiple entries
-description: Short summary of the post.        # Optional
-toc: false                                     # Table of contents
-comments: false
-pin: true                                      # Pin to the top of homepage
-image:                                         #image: /path/to/image
-  path: /path/to/image
-  alt: image alternative text
-#   lqip: /path/to/lqip-file                   # or base64 URI
-math: true
-# mermaid: true
-```
-
 ### Create a New Post
 [Jekyll Compose](https://github.com/jekyll/jekyll-compose)
 

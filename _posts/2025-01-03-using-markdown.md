@@ -18,47 +18,15 @@ math: true
 
 
 ## Layout
-
-```yaml
----
-title: Text and Typography
-description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
-author: cotes
-date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
-pin: true
-math: true
-mermaid: true
-image:
-  path: /commons/devices-mockup.png
-  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Responsive rendering of Chirpy theme on multiple devices.
----
-```
-
-## Headings
-
-```
-# H1 — heading
-{: .mt-4 .mb-0 }
-
-## H2 — heading
-{: data-toc-skip='' .mt-4 .mb-0 }
-
-### H3 — heading
-{: data-toc-skip='' .mt-4 .mb-0 }
-
-#### H4 — heading
-{: data-toc-skip='' .mt-4 }
-```
+layout
+### Headings
+headings
 
 ## Paragraph
 
 Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales. Aliquam ante lorem, ornare a feugiat ac, finibus nec mauris. Vivamus ut tristique nisi. Sed vel leo vulputate, efficitur risus non, posuere mi. Nullam tincidunt bibendum rutrum. Proin commodo ornare sapien. Vivamus interdum diam sed sapien blandit, sit amet aliquam risus mattis. Nullam arcu turpis, mollis quis laoreet at, placerat id nibh. Suspendisse venenatis eros eros.
 
 ## Lists
-
 ### Ordered list
 
 1. Firstly
@@ -168,35 +136,6 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
   banana :crit, b, 2017-07-23, 1d
   cherry :active, c, after b a, 1d
 ```
-
-## Images
-
-### Default (with caption)
-
-![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" }
-_Full screen width and center alignment_
-
-### Left aligned
-
-![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" .w-75 .normal}
-
-### Float to left
-
-![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" .w-50 .left}
-Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum.
-
-### Float to right
-
-![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" .w-50 .right}
-Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum.
-
-### Dark/Light mode & Shadow
-
-The image below will toggle dark/light mode based on theme preference, notice it has shadows.
-
-![light mode only](/posts/20190808/devtools-light.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668' }
-![dark mode only](/posts/20190808/devtools-dark.png){: .dark .w-75 .shadow .rounded-10 w='1212' h='668' }
-
 
 ## Reverse Footnote
 
