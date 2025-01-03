@@ -1,11 +1,13 @@
 - extension: mp3
   mime_type: mpeg
+- extension: mid
+  mime_type: midi
 - extension: mov
   mime_type: quicktime
-- extension: avi
-  mime_type: x-msvideo
 - extension: mkv
   mime_type: x-matroska
+- extension: avi
+  mime_type: x-msvideo
 - extension: ogv
   mime_type: ogg
 - extension: weba
@@ -14,5 +16,3 @@
   mime_type: 3gpp
 - extension: 3g2
   mime_type: 3gpp2
-- extension: mid
-  mime_type: midi
