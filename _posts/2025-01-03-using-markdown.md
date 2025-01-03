@@ -12,14 +12,18 @@ math: true
 ---
 
 # Markdown
+
 [Text and Typography](https://chirpy.cotes.page/posts/text-and-typography/)
 
 <https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-text-and-typography.md?plain=1>
 
 
 ## Layout
+
 layout
+
 ### Headings
+
 headings
 
 ## Paragraph
@@ -27,6 +31,7 @@ headings
 Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales. Aliquam ante lorem, ornare a feugiat ac, finibus nec mauris. Vivamus ut tristique nisi. Sed vel leo vulputate, efficitur risus non, posuere mi. Nullam tincidunt bibendum rutrum. Proin commodo ornare sapien. Vivamus interdum diam sed sapien blandit, sit amet aliquam risus mattis. Nullam arcu turpis, mollis quis laoreet at, placerat id nibh. Suspendisse venenatis eros eros.
 
 ## Lists
+
 ### Ordered list
 
 1. Firstly
@@ -85,13 +90,12 @@ Moon
 
 <http://127.0.0.1:4000>
 
-
 ## Inline code
 
 This is an example of `Inline Code`.
 
-
 ## Code blocks
+
 ### Common
 
 ```text
