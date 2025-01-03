@@ -85,9 +85,6 @@ Moon
 
 <http://127.0.0.1:4000>
 
-## Footnote
-
-Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
 
 ## Inline code
 
@@ -136,6 +133,10 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
   banana :crit, b, 2017-07-23, 1d
   cherry :active, c, after b a, 1d
 ```
+
+## Footnote
+
+Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
 
 ## Reverse Footnote
 
