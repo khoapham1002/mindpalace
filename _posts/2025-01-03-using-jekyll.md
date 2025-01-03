@@ -19,10 +19,11 @@ bundle exec jekyll serve
 
 ## New Posts
 [Writing a New Post](https://chirpy.cotes.page/posts/write-a-new-post/)
+
 <https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-write-a-new-post.md?plain=1>
 
 
-```YAML
+```yaml
 layout: post                                   # Optional
 title: Post Title
 date: YYYY-MM-DD HH:MM:SS +/-TTTT              #-0800 is PST timezone
@@ -72,11 +73,11 @@ _Image Caption_
 <!-- Size -->
 ![Desktop View](/assets/img/sample/mockup.png){: width="700" height="400" }     <!--w="700" h="400" works too!-->
 
-
 <!-- Video -->
-{% include embed/video.html src='{URL}' %}
+<!-- {% include embed/video.html src='{URL}' %} -->
 <!-- URL: /path/to/sample/video.mp4 -->
-{%
+
+<!-- {%
   include embed/video.html
   src='/path/to/video.mp4'
   types='ogg|mov'
@@ -85,13 +86,15 @@ _Image Caption_
   autoplay=true
   loop=true
   muted=true
-%}
+%} -->
 
-{% include embed/{Platform}.html id='{ID}' %}
-Video URL	                                    Platform	ID
+<!-- {{% include embed/platform.html %}} -->
+<!-- Video URL	                                    Platform	ID
 https://www.youtube.com/watch?v=H-B46URT4mg	    youtube	    H-B46URT4mg
-https://www.twitch.tv/videos/1634779211	        twitch	    1634779211
+https://www.twitch.tv/videos/1634779211	        twitch	    1634779211 -->
 ```
+
+
 
 ```markdown
 <!-- Block math, keep all blank lines -->
