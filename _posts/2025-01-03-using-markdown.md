@@ -4,11 +4,11 @@ title: Using Markdown
 description: Examples of markdowns
 author: khoa_pham
 date: 2025-01-03 10:00 -0800
-categories: [Tutorials, Markdown]
+categories: [Tutorials]
 tags: [tutorials, notes]
 pin: true
 math: true
-# mermaid: true
+mermaid: true
 ---
 
 # Markdown

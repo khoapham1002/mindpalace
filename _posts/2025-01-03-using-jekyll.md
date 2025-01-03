@@ -4,7 +4,7 @@ title: Using Jekyll
 description: Examples of Jekyll
 author: khoa_pham
 date: 2025-01-03 09:00 -0800
-categories: [Tutorials, Jekyll]
+categories: [Tutorials]
 tags: [tutorials, notes]
 pin: true
 ---
