@@ -66,18 +66,6 @@ bundle exec jekyll rename _posts/2014-01-24-my-new-draft.md "My New Post"
 ### Writing Markdown
 
 ```markdown
-<!-- Image -->
-![img-description](/path/to/image)
-_Image Caption_
-
-<!-- Size -->
-![Desktop View](/assets/img/sample/mockup.png){: width="700" height="400" }     <!--w="700" h="400" works too!-->
-
-```
-
-
-
-```markdown
 <!-- Block math, keep all blank lines -->
 
 $$

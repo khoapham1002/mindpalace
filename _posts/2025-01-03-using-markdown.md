@@ -8,7 +8,7 @@ categories: [Tutorials, Markdown]
 tags: [tutorials, notes]
 pin: true
 math: true
-mermaid: true
+# mermaid: true
 ---
 
 # Markdown
@@ -19,7 +19,7 @@ mermaid: true
 
 ## Layout
 
-``` Yaml
+```yaml
 ---
 title: Text and Typography
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
@@ -39,7 +39,7 @@ image:
 
 ## Headings
 
-```markdown
+```
 # H1 — heading
 {: .mt-4 .mb-0 }
 
@@ -92,7 +92,6 @@ Moon
 
 ## Prompts
 
-
 > An example showing the `tip` type prompt.
 {: .prompt-tip }
 
@@ -109,7 +108,7 @@ Moon
 ## Tables
 
 | Company                      | Contact          | Country |
-| :--------------------------- | :--------------- | ------: |
+| :--------------------------- | :---------------:| ------: |
 | Alfreds Futterkiste          | Maria Anders     | Germany |
 | Island Trading               | Helen Bennett    |      UK |
 | Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
@@ -126,12 +125,8 @@ Click the hook will locate the footnote[^footnote], and here is another footnote
 
 This is an example of `Inline Code`.
 
-## Filepath
-
-Here is the `/path/to/the/file.extend`{: .filepath}.
 
 ## Code blocks
-
 ### Common
 
 ```text
@@ -146,15 +141,6 @@ if [ $? -ne 0 ]; then
   #do the needful / exit
 fi;
 ```
-
-### Specific filename
-
-```sass
-@import
-  "colors/light-typography",
-  "colors/dark-typography";
-```
-{: file='_sass/jekyll-theme-chirpy.scss'}
 
 ## Mathematics
 
@@ -211,9 +197,6 @@ The image below will toggle dark/light mode based on theme preference, notice it
 ![light mode only](/posts/20190808/devtools-light.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668' }
 ![dark mode only](/posts/20190808/devtools-dark.png){: .dark .w-75 .shadow .rounded-10 w='1212' h='668' }
 
-## Video
-
-{% include embed/youtube.html id='Balreaj8Yqs' %}
 
 ## Reverse Footnote
 
