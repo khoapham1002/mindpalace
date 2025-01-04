@@ -70,7 +70,8 @@ bundle exec jekyll rename _posts/2014-01-24-my-new-draft.md "My New Post"
 
 ***
 
-This is an inline equation: $E = mc^2$.
+This is an inline equation: \( E = mc^2 \).
+For markdown, LaTex: `$E = mc^2$`.
 
 This is a displayed equation:
 $$
