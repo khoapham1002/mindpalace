@@ -23,6 +23,7 @@ bundle exec jekyll serve
 
 [Jekyll Compose](https://github.com/jekyll/jekyll-compose)
 
+
 ### Create a New Post
 
 ```terminal
@@ -65,7 +66,7 @@ bundle exec jekyll rename _posts/2014-01-24-my-new-draft.md "My New Post"
 
 > Link to [Google](https://www.google.com)
 
-Link to more info in this [README.md](README.md)!
+Link to more info in this [README.md](../README.md)
 
 ---
 
