@@ -6,7 +6,7 @@ order: 1
 
 > 👀 **Heads Up:** This site is my creative playground where I blog about cool stuff and experiment with fun ideas! 🌈 <br>
 > "⚖️ Delicate balance of calm and chaos 🔥" <br>
-> "🐚 Serene sea of boundless dreams 🌟" <br>
+> "🐚 Serene sea of boundless dreams ✨" <br>
 > "🐳 Still waters hide uncharted depths ⚓️" <br>
 > "🌊 Gentle waves carry bold ideas 💡" <br>
 {: .prompt-info }
