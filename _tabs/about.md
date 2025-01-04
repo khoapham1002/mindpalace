@@ -28,3 +28,5 @@ _A song that touched..._
 > 🐚 Serene sea of boundless dreams 🌟 <br>
 > 🐳 Still waters hide uncharted depths ⚓️ <br>
 > 🌊 Gentle waves carry bold ideas 💡 <br>
+
+_Juxtapositions I like..._
