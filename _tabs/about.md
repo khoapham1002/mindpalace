@@ -24,6 +24,6 @@ _A dance that inspired..._
 _A song that touched..._
 
 > ⚖️ Delicate balance of calm and chaos 🔥 <br>
-> 🐚 Serene sea of boundless dreams ✨ <br>
+> 🐚 Serene sea of boundless dreams 🌟 <br>
 > 🐳 Still waters hide uncharted depths ⚓️ <br>
 > 🌊 Gentle waves carry bold ideas 💡 <br>
