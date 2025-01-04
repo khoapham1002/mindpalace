@@ -4,7 +4,8 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-> 👀 **Heads Up:** This site is my creative playground where I blog about cool stuff and experiment with fun ideas! 🌈 <br>
+# 🚨 Heads Up:
+> 👀 This site is my creative playground where I blog about cool stuff and experiment with fun ideas! 🌈 <br>
 {: .prompt-info }
 
 > 💼 Looking for something work-related...? 💁‍♂️ Head over to my other website to see the ***[serious me](https://kdpham-1002.github.io/)***! 🤓
