@@ -6,13 +6,13 @@ platforms:
     icon: "fab fa-linkedin"
     link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
 
-  - type: Facebook
-    icon: "fab fa-facebook-square"
-    link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
-
   # - type: Instagram
   #   icon: "fab fa-instagram"
   #   link: "https://www.instagram.com/"
+
+  - type: Facebook
+    icon: "fab fa-facebook-square"
+    link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
 
   - type: Threads
     icon: "fa-brands fa-square-threads"
