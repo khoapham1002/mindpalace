@@ -9,26 +9,23 @@ tags: [tutorials, notes]
 pin: true
 ---
 
-# Jekyll
+## Understand Basics
 
-```terminal
+```bash
 bundle
 
 bundle exec jekyll serve
 ```
 
-## New Posts
-
 [Writing a New Post](https://chirpy.cotes.page/posts/write-a-new-post/)
 
 <https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-write-a-new-post.md?plain=1>
 
-### Create a New Post
-
 [Jekyll Compose](https://github.com/jekyll/jekyll-compose)
 
+### Create a New Post
 
-```console
+```terminal
 bundle exec jekyll post "My New Post"
 bundle exec jekyll post "My New Post" --timestamp-format "%Y-%m-%d %H:%M:%S %z"
 
@@ -47,31 +44,47 @@ bundle exec jekyll rename _posts/2014-01-24-my-new-draft.md "My New Post"
 
 ### Writing Markdown
 
-```markdown
-<!-- Block math, keep all blank lines -->
+***Term 1***
+: ~~Definition of term 1~~
 
+**Term 2**
+: _Definition of term 2_
+
+- Item 1
+  - Item 2
+    - `Sub-item`
+
+1. Item 1
+2. Item 2
+3. Sub-item
+
+- [ ] Job
+  - [x] Step 1
+  - [x] Step 2
+  - [ ] Step 3
+
+> Link to [Google](https://www.google.com)
+
+Link to more info in this [README.md](README.md)!
+
+---
+
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Row 1 Col 1 | Row 1 Col 2 |
+| Row 2 Col 1 | Row 2 Col 2 |
+
+
+| Left Aligned | Center Aligned | Right Aligned |
+|:------------ |:--------------:| -------------:|
+| Row 1 Col 1  | Row 1 Col 2    | Row 1 Col 3   |
+| Row 2 Col 1  | Row 2 Col 2    | Row 2 Col 3   |
+
+***
+
+This is an inline equation: $E = mc^2$.
+
+This is a displayed equation:
 $$
-LaTeX_math_expression
+a^2 + b^2 = c^2
 $$
-
-<!-- Equation numbering, keep all blank lines  -->
-
-$$
-\begin{equation}
-  LaTeX_math_expression
-  \label{eq:label_name}
-\end{equation}
-$$
-
-Can be referenced as \eqref{eq:label_name}.
-
-<!-- Inline math in lines, NO blank lines -->
-
-"Lorem ipsum dolor sit amet, $$ LaTeX_math_expression $$ consectetur adipiscing elit."
-
-<!-- Inline math in lists, escape the first `$` -->
-
-1. \$$ LaTeX_math_expression $$
-2. \$$ LaTeX_math_expression $$
-3. \$$ LaTeX_math_expression $$
-```

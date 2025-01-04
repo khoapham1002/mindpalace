@@ -15,10 +15,10 @@ timezone: America/Los_Angeles
 # ↓ --------------------------
 
 title: Khoa Pham # the main title
-tagline: A place for my archives  # it will display as the subtitle
+tagline: A place for my archives <br> <h2> 📸  🧑‍💻  💃 </h2> <br> Data Science <br> Business Analytics <br> Data Engineering # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A Chirpy site for archiving my projects, thoughts and ideas.
+  A platform showcasing my journey in Data Science, Business Analytics, and Data Engineering. Explore projects, insights, and creative content blending technical expertise with personal passions.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
