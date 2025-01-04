@@ -95,8 +95,6 @@ This is an example of `Inline Code`.
 
 ## Code blocks
 
-### Common
-
 ```text
 This is a common code snippet, without syntax highlight and line number.
 ```
@@ -109,6 +107,14 @@ if [ $? -ne 0 ]; then
   #do the needful / exit
 fi;
 ```
+
+Using ```` ```{language} ```` you will get a code block with syntax highlight:
+
+````markdown
+```yaml
+key: value
+```
+````
 
 ## Mathematics
 
@@ -139,7 +145,7 @@ $$
 
 | Video URL                                                                                          | Platform   | ID             |
 | -------------------------------------------------------------------------------------------------- | ---------- | :------------- |
-| [https://www.**youtube**.com/watch?v=**H-B46URT4mg**](https://www.youtube.com/watch?v=H-B46URT4mg) | `youtube`  | `H-B46URT4mg`  |
+| [https://www.**youtube**.com/watch?v=**vbK7Ocl3EbI**](https://www.youtube.com/watch?v=vbK7Ocl3EbI) | `youtube`  | `H-B46URT4mg`  |
 | [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211)         | `twitch`   | `1634779211`   |
 | [https://www.**bilibili**.com/video/**BV1Q44y1B7Wf**](https://www.bilibili.com/video/BV1Q44y1B7Wf) | `bilibili` | `BV1Q44y1B7Wf` |
 
