@@ -82,9 +82,9 @@ Moon
 
 ---
 
-> Link to test locally with Ruby
+Link to test locally with Ruby
 
-<http://127.0.0.1:4000>
+<http://127.0.0.1:4000/mindpalace/>
 
 ***
 
