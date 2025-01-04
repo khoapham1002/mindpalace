@@ -82,12 +82,15 @@ Moon
 
 ---
 
+> Link to test locally with Ruby
+
 <http://127.0.0.1:4000>
 
 ***
 
-![Ant](assets/img/favicons/apple-touch-icon.png)
-_Ant holding Watermelon_
+![Doe_Patronus](assets/img/favicons/favicon-96x96.png)
+
+_Potter's Doe Patronous_
 
 ## Inline code
 
