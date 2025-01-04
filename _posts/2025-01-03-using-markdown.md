@@ -88,7 +88,7 @@ Moon
 
 ***
 
-![Doe_Patronus](assets/img/favicons/favicon-96x96.png)
+![Doe_Patronus](assets/img/favicons/web-app-manifest-512x512.png)
 _Potter's Doe Patronous_
 
 ## Inline code
