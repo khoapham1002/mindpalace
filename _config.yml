@@ -30,7 +30,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://kdpham-1002.github.io"
 
 # The base URL of your site
-baseurl: "/my-portfolio"
+baseurl: "/mindpalace"
 
 github:
   username: kdpham-1002 # change to your GitHub username
