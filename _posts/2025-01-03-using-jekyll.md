@@ -18,12 +18,11 @@ bundle
 bundle exec jekyll serve
 ```
 
+[Jekyll Compose](https://github.com/jekyll/jekyll-compose)
+
 [Writing a New Post](https://chirpy.cotes.page/posts/write-a-new-post/)
 
 <https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-write-a-new-post.md?plain=1>
-
-[Jekyll Compose](https://github.com/jekyll/jekyll-compose)
-
 
 ### Create a New Post
 
@@ -52,25 +51,10 @@ bundle exec jekyll rename _posts/2014-01-24-my-new-draft.md "My New Post"
 **Term 2**
 : _Definition of term 2_
 
-- Item 1
-  - Item 2
-    - `Sub-item`
-
-1. Item 1
-2. Item 2
-3. Sub-item
-
 - [ ] Job
   - [x] Step 1
   - [x] Step 2
   - [ ] Step 3
-
-> Link to [Google](https://www.google.com)
-
-<!-- Link to more info in this [README.md](/README.md) -->
-
-![img-description](assets/img/favicons/apple-touch-icon.png)
-_Image Caption_
 
 ---
 
@@ -80,11 +64,6 @@ _Image Caption_
 | Row 2 Col 1 | Row 2 Col 2 |
 
 
-| Left Aligned | Center Aligned | Right Aligned |
-|:------------ |:--------------:| -------------:|
-| Row 1 Col 1  | Row 1 Col 2    | Row 1 Col 3   |
-| Row 2 Col 1  | Row 2 Col 2    | Row 2 Col 3   |
-
 ***
 
 This is an inline equation: $E = mc^2$.
@@ -93,3 +72,4 @@ This is a displayed equation:
 $$
 a^2 + b^2 = c^2
 $$
+

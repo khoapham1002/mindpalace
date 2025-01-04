@@ -17,18 +17,9 @@ mermaid: true
 
 <https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-text-and-typography.md?plain=1>
 
-
-## Layout
-
-layout
-
-### Headings
-
-headings
-
 ## Paragraph
 
-Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales.
+Jekyll is a static site generator that transforms plain text into static websites and blogs. When used together with Markdown, Jekyll allows users to write content in a simple, readable format that can be easily converted into HTML. Markdown's straightforward syntax makes it easy to format text, create lists, add links, and include code snippets, while Jekyll handles the layout and structure of the site. This combination provides a powerful yet user-friendly way to create and manage static websites.
 
 ## Lists
 
@@ -80,15 +71,23 @@ Moon
 
 ## Tables
 
-| Company                      | Contact          | Country |
-| :--------------------------- | :---------------:| ------: |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    |      UK |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
+| Left Aligned | Center Aligned | Right Aligned |
+|:------------ |:--------------:| -------------:|
+| Row 1 Col 1  | Row 1 Col 2    | Row 1 Col 3   |
+| Row 2 Col 1  | Row 2 Col 2    | Row 2 Col 3   |
 
-## Links
+## Links & Images
+
+> Link to [Chirpy](https://chirpy.cotes.page)
+
+---
 
 <http://127.0.0.1:4000>
+
+***
+
+![Ant](assets/img/favicons/apple-touch-icon.png)
+_Ant holding Watermelon_
 
 ## Inline code
 
@@ -117,6 +116,13 @@ The mathematics powered by [**MathJax**](https://www.mathjax.org/):
 
 $$ x = \frac{-b \pm \sqrt{b^2-4ac}}{2a} $$
 
+This is an inline equation: $E = mc^2$.
+
+This is a displayed equation:
+$$
+a^2 + b^2 = c^2
+$$
+
 ## Mermaid SVG
 
 ```mermaid
@@ -126,6 +132,16 @@ $$ x = \frac{-b \pm \sqrt{b^2-4ac}}{2a} $$
   banana :crit, b, 2017-07-23, 1d
   cherry :active, c, after b a, 1d
 ```
+
+## Video
+
+{% include embed/youtube.html id='vbK7Ocl3EbI' %}
+
+| Video URL                                                                                          | Platform   | ID             |
+| -------------------------------------------------------------------------------------------------- | ---------- | :------------- |
+| [https://www.**youtube**.com/watch?v=**H-B46URT4mg**](https://www.youtube.com/watch?v=H-B46URT4mg) | `youtube`  | `H-B46URT4mg`  |
+| [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211)         | `twitch`   | `1634779211`   |
+| [https://www.**bilibili**.com/video/**BV1Q44y1B7Wf**](https://www.bilibili.com/video/BV1Q44y1B7Wf) | `bilibili` | `BV1Q44y1B7Wf` |
 
 ## Footnote
 
