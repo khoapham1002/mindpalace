@@ -5,10 +5,6 @@ order: 1
 ---
 
 > 👀 **Heads Up:** This site is my creative playground where I blog about cool stuff and experiment with fun ideas! 🌈 <br>
-> "⚖️ Delicate balance of calm and chaos 🔥" <br>
-> "🐚 Serene sea of boundless dreams ✨" <br>
-> "🐳 Still waters hide uncharted depths ⚓️" <br>
-> "🌊 Gentle waves carry bold ideas 💡" <br>
 {: .prompt-info }
 
 > 💼 Looking for something work-related...? 💁‍♂️ Head over to my other website to see the ***[serious me](https://kdpham-1002.github.io/)***! 🤓
@@ -26,3 +22,8 @@ _A dance that inspired..._
 
 {% include embed/youtube.html id='OcCkAG_LO9Y' %}
 _A song that touched..._
+
+> ⚖️ Delicate balance of calm and chaos 🔥 <br>
+> 🐚 Serene sea of boundless dreams ✨ <br>
+> 🐳 Still waters hide uncharted depths ⚓️ <br>
+> 🌊 Gentle waves carry bold ideas 💡 <br>
