@@ -68,6 +68,9 @@ bundle exec jekyll rename _posts/2014-01-24-my-new-draft.md "My New Post"
 
 <!-- Link to more info in this [README.md](/README.md) -->
 
+![img-description](assets/img/favicons/apple-touch-icon.png)
+_Image Caption_
+
 ---
 
 | Header 1 | Header 2 |
