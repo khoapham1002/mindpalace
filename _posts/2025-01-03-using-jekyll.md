@@ -17,18 +17,18 @@ math: true
 [Jekyll & Ruby Installation](https://jekyllrb.com/docs/installation/)
 
 ```bash
+bundle
 bundle install
-
 bundle exec jekyll serve
 ```
+
+### Create a New Post
 
 [Writing a New Post](https://chirpy.cotes.page/posts/write-a-new-post/)
 
 <https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-write-a-new-post.md?plain=1>
 
 [Jekyll Compose](https://github.com/jekyll/jekyll-compose)
-
-### Create a New Post
 
 ```terminal
 bundle exec jekyll post "My New Post"
@@ -70,9 +70,9 @@ bundle exec jekyll rename _posts/2014-01-24-my-new-draft.md "My New Post"
 
 ***
 
-This is an inline equation: \( E = mc^2 \).
+Inline equation for HTML rendering: \( E = mc^2 \).
 
-For markdown, LaTex: `$E = mc^2$`.
+For markdown, LaTex: $E = mc^2$.
 
 This is a displayed equation:
 $$

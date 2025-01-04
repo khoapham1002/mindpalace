@@ -141,13 +141,15 @@ $$
 
 ## Video
 
-{% include embed/youtube.html id='vbK7Ocl3EbI' %}
+https://www.youtube.com/watch?v=PsP2vsy_8ms
+
+{% include embed/youtube.html id='PsP2vsy_8ms' %}
 
 | Video URL                                                                                          | Platform   | ID             |
 | -------------------------------------------------------------------------------------------------- | ---------- | :------------- |
-| [https://www.**youtube**.com/watch?v=**vbK7Ocl3EbI**](https://www.youtube.com/watch?v=vbK7Ocl3EbI) | `youtube`  | `H-B46URT4mg`  |
+| [https://www.**youtube**.com/watch?v=**PsP2vsy_8ms**](https://www.youtube.com/watch?v=PsP2vsy_8ms) | `youtube`  | `PsP2vsy_8ms`  |
 | [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211)         | `twitch`   | `1634779211`   |
-| [https://www.**bilibili**.com/video/**BV1Q44y1B7Wf**](https://www.bilibili.com/video/BV1Q44y1B7Wf) | `bilibili` | `BV1Q44y1B7Wf` |
+
 
 ## Footnote
 

@@ -14,8 +14,8 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Koa's Archives  # the main title
-tagline: A place for my archives <br> Data Science <br> Business Analytics <br> Data Engineering <br> <h2> 💃  📸  🧑‍💻  🧑‍🍳 </h2> # it will display as the subtitle
+title: Koa's Mind Palace  # the main title
+tagline: 💼 DS|DE|BA 🧑‍💻 <br> 🌙 A quiet place for endless thoughts ✨ <br> 📜 A silent page for vibrant tales 🖋️ <br> ❣️ A little bit of everything I love... <br>  💃  🕺  🍣  📸  🎹  </br>
 
 description: >- # used by seo meta and the atom feed
   A platform showcasing my journey in Data Science, Business Analytics, and Data Engineering. Explore projects, insights, and creative content blending technical expertise with personal passions.
