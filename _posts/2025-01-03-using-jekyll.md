@@ -46,7 +46,7 @@ bundle exec jekyll rename _posts/2014-01-24-my-new-draft.md "My New Post"
 bundle exec jekyll rename _posts/2014-01-24-my-new-draft.md "My New Post"
 ```
 
-### Writing Markdown
+## Writing Markdown
 
 ***Term 1***
 : ~~Definition of term 1~~
@@ -59,15 +59,12 @@ bundle exec jekyll rename _posts/2014-01-24-my-new-draft.md "My New Post"
   - [x] Step 2
   - [ ] Step 3
 
----
-
 | Header 1 | Header 2 |
 | -------- | -------- |
 | Row 1 Col 1 | Row 1 Col 2 |
 | Row 2 Col 1 | Row 2 Col 2 |
 
-
-***
+---
 
 Inline equation for HTML rendering: `\( E = mc^2 \)`.
 
@@ -77,3 +74,7 @@ This is a displayed equation:
 $$
 a^2 + b^2 = c^2
 $$
+
+***
+
+> Continue on [Using Markdown](https://kdpham-1002.github.io/mindpalace/posts/using-markdown/)
