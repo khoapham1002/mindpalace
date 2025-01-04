@@ -7,6 +7,7 @@ date: 2025-01-03 09:00 -0800
 categories: [Tutorials]
 tags: [tutorials, notes]
 pin: true
+math: true
 ---
 
 ## Understand Basics
