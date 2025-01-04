@@ -15,7 +15,7 @@ timezone: America/Los_Angeles
 # ↓ --------------------------
 
 title: Khoa Pham # the main title
-tagline: A place for my archives <br> Data Science <br> Business Analytics <br> Data Engineering <br> <h2> 📸  🧑‍💻  💃 </h2> # it will display as the subtitle
+tagline: A place for my archives <br> Data Science <br> Business Analytics <br> Data Engineering <br> <h2> 💃  📸  🧑‍💻  🧑‍🍳 </h2> # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A platform showcasing my journey in Data Science, Business Analytics, and Data Engineering. Explore projects, insights, and creative content blending technical expertise with personal passions.
