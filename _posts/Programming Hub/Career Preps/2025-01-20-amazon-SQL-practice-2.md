@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Amazon SQL Practice Questions
+title: Amazon DS-SQL Practice Questions
 date: 2025-01-20 14:30 -0800
-description: Practice Amazon SQL technical questions
+description: Practice Amazon Data Science SQL technical questions
 author: khoa_pham
 categories: [Programming Hub, Career Preps]
 tags: [interview preps, coding, SQL]
@@ -52,3 +52,5 @@ result = amazon_shipment.groupby('year_month')['unique_key'].nunique().to_frame(
 # Sort by year_month
 result = result.sort_values(by='year_month')
 ```
+
+### Q2: Latest
