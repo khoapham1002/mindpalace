@@ -1,0 +1,48 @@
+#  The contact options.
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+  url: 'mailto:teenee3051@icloud.com'
+
+- type: github
+  icon: 'fab fa-github'
+  url: 'https://github.com/khoapham1002?tab=repositories'
+
+- type: linkedin
+  icon: 'fab fa-linkedin'
+  url:  'https://www.linkedin.com/in/kdpham1002/'
+
+- type: website
+  icon: 'fa-solid fa-user' # icons powered by <https://fontawesome.com/>
+  url: 'https://khoapham1002.github.io/'
+
+# - type: photography
+#   icon: 'fa-solid fa-camera'
+#   url: 'https://vsco.co/teenee3051/gallery'
+  
+# - type: dance
+#   icon: 'fa-solid fa-video'
+#   url: 'https://www.instagram.com/teenee_archives/reels/'
+
+# - type: instagram
+#   icon: 'fab fa-instagram'
+#   url: 'https://www.instagram.com/mdcdance/'
+
+
+# Uncomment and complete the url below to enable more contact options
+#
+# - type: threads
+#   icon: 'fa-brands fa-threads'
+#   url: ''                   # Fill with your Threads profile link
+#
+# - type: reddit
+#   icon: 'fa-brands fa-reddit'
+#   url: ''                   # Fill with your Reddit profile link
+#
+# - type: stack-overflow
+#   icon: 'fab fa-stack-overflow'
+#   url:  ''                  # Fill with your stackoverflow homepage
+#
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
