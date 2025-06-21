@@ -108,4 +108,4 @@ image:
 {: file="_data/authors.yml" }
 
 ## Use Markdown 
-Link to [Use Markdown](https://khoapham1002.github.io/mindpalace/posts/use-markdown/)  
+> Link to [Use Markdown](https://khoapham1002.github.io/mindpalace/posts/use-markdown/)  

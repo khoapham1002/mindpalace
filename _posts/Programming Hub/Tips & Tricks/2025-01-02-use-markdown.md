@@ -27,7 +27,7 @@ Jekyll is a static site generator that transforms plain text into static website
 
 ## Links
 
-Link to [Chirpy](https://chirpy.cotes.page)
+> Link to [Chirpy](https://chirpy.cotes.page)
 
 ```markdown
 Link to [Chirpy](https://chirpy.cotes.page)
@@ -231,7 +231,7 @@ without syntax highlight and line number.
 
 ### Line Number
 
-By default, all languages except `plaintext`, `console`, and `terminal` will display line numbers. When you want to hide the line number of a code block, add the class `nolineno` to it:
+By default, all languages except `plaintext`, `console`, and `terminal` will display line numbers. Add the class `nolineno` to hide the line numbers:
 
 ```text
 This is a common code snippet, 
@@ -362,7 +362,7 @@ We can reference the equation as \eqref{eq:series}.
 
 ```mermaid
  gantt
-  title :Adding GANTT diagram functionality to mermaid
+  title Adding GANTT diagram functionality to mermaid
   apple :a, 2017-07-20, 1w
   banana :crit, b, 2017-07-23, 1d
   cherry :active, c, after b a, 1d
@@ -398,27 +398,6 @@ _Potter's Doe Patronous_
 
 ## Video
 
-### Social Media Platform
-
-{% include embed/youtube.html id='PsP2vsy_8ms' %}
-
-| Video URL      | Platform   | ID             |
-| -------------- | ---------- | :------------- |
-| [https://www.**youtube**.com/watch?v=**PsP2vsy_8ms**](https://www.youtube.com/watch?v=PsP2vsy_8ms)    | `youtube`        | `PsP2vsy_8ms`  |
-| [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211)            | `twitch`         | `1634779211`   |
-
-````markdown
-{% raw %}
-{% include embed/{Platform}.html id='{ID}' %}
-{% include embed/youtube.html id='PsP2vsy_8ms' %}
-
-| Video URL      | Platform   | ID             |
-| -------------- | ---------- | :------------- |
-| [https://www.**youtube**.com/watch?v=**PsP2vsy_8ms**](https://www.youtube.com/watch?v=PsP2vsy_8ms)    | `youtube`        | `PsP2vsy_8ms`  |
-| [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211)            | `twitch`         | `1634779211`   |
-{% endraw %}
-````
-
 ### Video File
 
 {% 
@@ -452,6 +431,27 @@ You can also specify additional attributes for the embedded video file. Here is 
 - `autoplay=true` — video automatically begins to play back as soon as it can
 - `loop=true` — automatically seek back to the start upon reaching the end of the video
 - `muted=true` — audio will be initially silenced
+
+### Social Media Platform
+
+{% include embed/youtube.html id='PsP2vsy_8ms' %}
+
+| Video URL      | Platform   | ID             |
+| -------------- | ---------- | :------------- |
+| [https://www.**youtube**.com/watch?v=**PsP2vsy_8ms**](https://www.youtube.com/watch?v=PsP2vsy_8ms)    | `youtube`        | `PsP2vsy_8ms`  |
+| [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211)            | `twitch`         | `1634779211`   |
+
+````markdown
+{% raw %}
+{% include embed/{Platform}.html id='{ID}' %}
+{% include embed/youtube.html id='PsP2vsy_8ms' %}
+
+| Video URL      | Platform   | ID             |
+| -------------- | ---------- | :------------- |
+| [https://www.**youtube**.com/watch?v=**PsP2vsy_8ms**](https://www.youtube.com/watch?v=PsP2vsy_8ms)    | `youtube`        | `PsP2vsy_8ms`  |
+| [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211)            | `twitch`         | `1634779211`   |
+{% endraw %}
+````
 
 ## Footnotes
 
