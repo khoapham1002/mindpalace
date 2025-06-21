@@ -25,16 +25,16 @@ Link to [Use Jekyll](https://khoapham1002.github.io/mindpalace/posts/use-jekyll/
 
 Jekyll is a static site generator that transforms plain text into static websites and blogs. When used together with Markdown, Jekyll allows users to write content in a simple, readable format that can be easily converted into HTML. Markdown's straightforward syntax makes it easy to format text, create lists, add links, and include code snippets, while Jekyll handles the layout and structure of the site. This combination provides a powerful yet user-friendly way to create and manage static websites.
 
-## Links
 
+## Links   
 > Link to [Chirpy](https://chirpy.cotes.page)
 
 ```markdown
 Link to [Chirpy](https://chirpy.cotes.page)
 ```
 
-## Headings
 
+## Headings   
 ```markdown
 # Header 1
 ## Header 2
@@ -44,8 +44,8 @@ Link to [Chirpy](https://chirpy.cotes.page)
 ###### Header 6
 ```
 
-## Emphasis
 
+## Emphasis   
 *italic* or _italic_ <br>
 **bold** or __bold__ <br>
 ***bold and italic*** or ___bold and italic___ <br>
@@ -62,8 +62,8 @@ This is <strong>bold</strong> text using HTML syntax. <br>
 ~~This is strikethrough text.~~
 ```
 
-## Ordered list
 
+## Ordered list   
 1. Firstly
 2. Secondly
 3. Thirdly
@@ -74,8 +74,8 @@ This is <strong>bold</strong> text using HTML syntax. <br>
 3. Thirdly
 ```
 
-## Unordered list
 
+## Unordered list   
 - Chapter
   - Section 1
     - Paragraph 1
@@ -90,8 +90,7 @@ This is <strong>bold</strong> text using HTML syntax. <br>
     - Paragraph 2
 ```
 
-## ToDo list
-
+## ToDo list   
 - [ ] Job
   - [x] Step 1
   - [ ] Step 2
@@ -108,24 +107,22 @@ This is <strong>bold</strong> text using HTML syntax. <br>
   - [ ] Step 3
 ```
 
-## Description list
 
+## Description list   
 ***Term 1***
-: _Definition of term 1_
-
+: _Definition of term 1_   
 **Term 2**
-: ~~Definition of term 2~~
+: ~~Wrong definition of term 2~~
 
 ```markdown
 ***Term 1***
-: _Definition of term 1_
-
+: _Definition of term 1_   
 **Term 2**
-: ~~Definition of term 2~~
+: ~~Wrong definition of term 2~~
 ```
 
-## Tables
 
+## Tables   
 | Header 1 | Header 2 |
 | -------- | -------- |
 | Row 1 Col 1 | Row 1 Col 2 |
@@ -150,8 +147,7 @@ This is <strong>bold</strong> text using HTML syntax. <br>
 | Row 2 Col 1  | Row 2 Col 2    | Row 2 Col 3   |
 ```
 
-## Block Quote
-
+## Block Quote   
 > This line shows the _block quote_.  
 
 >> This line shows the _nested block quote_.  
@@ -172,51 +168,46 @@ This is <strong>bold</strong> text using HTML syntax. <br>
 >>> This line shows the _nested block quote_.  
 ```
 
-## Prompts
 
+## Prompts   
 > An example showing the `tip` type prompt.
-{: .prompt-tip }
-
+{: .prompt-tip }   
 > An example showing the `info` type prompt.
-{: .prompt-info }
-
+{: .prompt-info }   
 > An example showing the `warning` type prompt.
-{: .prompt-warning }
-
+{: .prompt-warning }   
 > An example showing the `danger` type prompt.
 {: .prompt-danger }
 
 ```markdown
 > An example showing the `tip` type prompt.
-{: .prompt-tip }
-
+{: .prompt-tip }   
 > An example showing the `info` type prompt.
-{: .prompt-info }
-
+{: .prompt-info }   
 > An example showing the `warning` type prompt.
-{: .prompt-warning }
-
+{: .prompt-warning }   
 > An example showing the `danger` type prompt.
 {: .prompt-danger }
 ```
 
-## Inline Code
 
+## Inline Code   
 This is an example of `Inline Code`.
 
 ```markdown
 This is an example of `Inline Code`.
 ```
-### Filepath
 
+
+### Filepath   
 Here is the `/path/to/the/file.extend`{: .filepath}.
 
 ```markdown
 Here is the `/path/to/the/file.extend`{: .filepath}.
 ```
 
-## Code blocks
 
+## Code blocks   
 ```text
 This is a common code snippet, 
 without syntax highlight and line number.
@@ -229,8 +220,7 @@ without syntax highlight and line number.
 ```
 ````
 
-### Line Number
-
+### Line Number   
 By default, all languages except `plaintext`, `console`, and `terminal` will display line numbers. Add the class `nolineno` to hide the line numbers:
 
 ```text
@@ -239,6 +229,7 @@ without syntax highlight and line number.
 ```
 {: .nolineno }
 
+
 ````md
 ```text
 This is a common code snippet, 
@@ -246,6 +237,7 @@ without syntax highlight and line number.
 ```
 {: .nolineno }
 ````
+
 
 ### Specific Language
 Using ```` ```{language} ```` you will get a code block with syntax highlight:
@@ -268,8 +260,8 @@ else:
 ```
 ````
 
-### Specific filename
 
+### Specific filename
 ```sass
 @import
   "colors/light-typography",
@@ -287,8 +279,8 @@ else:
 {: file='_sass/jekyll-theme-chirpy.scss'}
 ````
 
-### Liquid Codes
 
+### Liquid Codes   
 ````markdown
 {% raw %}```liquid
 {% if product.title contains 'Pack' %}
@@ -297,53 +289,47 @@ else:
 ```{% endraw %}
 ````
 
-## Math & LaTeX
 
+## Math & LaTeX   
 The mathematics powered by [**MathJax**](https://www.mathjax.org/):
 
-This is a displayed equation:
-
+This is a displayed equation:  
 $$
 a^2 + b^2 = c^2
 $$
 
 ```markdown
-This is a displayed equation:
-
+This is a displayed equation:   
 $$
 a^2 + b^2 = c^2
 $$
 ```
 
-When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are:
+When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are: 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 ```markdown
-When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are:
+When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are: 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 ```
 
-This is a geometric series:
-
+This is a geometric series:   
 $$
 \begin{equation}
   S = \sum_{n=0}^{\infty} ar^n = \frac{a}{1 - r}
   \label{eq:series}
 \end{equation}
-$$
-
+$$   
 We can reference the equation as \eqref{eq:series}.   
 
 ```markdown
-This is a geometric series:
-
+This is a geometric series:   
 $$
 \begin{equation}
   S = \sum_{n=0}^{\infty} ar^n = \frac{a}{1 - r}
   \label{eq:series}
 \end{equation}
-$$
-
+$$   
 We can reference the equation as \eqref{eq:series}.
 ```
 
@@ -358,8 +344,8 @@ We can reference the equation as \eqref{eq:series}.
 3. \$$E = mc^2$$
 ```
 
-## Mermaid SVG
 
+## Mermaid SVG   
 ```mermaid
  gantt
   title Adding GANTT diagram functionality to mermaid
@@ -378,18 +364,18 @@ We can reference the equation as \eqref{eq:series}.
 ```{% endraw %}
 ````
 
-## Images
-
+## Images   
 ![Doe_Patronus](assets/img/favicons/web-app-manifest-512x512.png){: .shadow }
 _Potter's Doe Patronous_
 
 ![Doe_Patronus](assets/img/favicons/web-app-manifest-512x512.png){: w="200" h="200" }{: .normal }
 
-```markdown
-![Doe_Patronus](assets/img/favicons/web-app-manifest-512x512.png)
-_Potter's Doe Patronous_
 
-![Doe_Patronus](assets/img/favicons/web-app-manifest-512x512.png){: w="300" h="300" }{: .normal }{: .shadow }
+```markdown
+![Doe_Patronus](assets/img/favicons/web-app-manifest-512x512.png){: .shadow }
+_Potter's Doe Patronous_   
+
+![Doe_Patronus](assets/img/favicons/web-app-manifest-512x512.png){: w="200" h="200" }{: .normal }
 
 <!-- ![Doe_Patronus](assets/img/favicons/web-app-manifest-512x512.png){: width="700" height="400" }
 ![Doe_Patronus](assets/img/favicons/web-app-manifest-512x512.png){: .left }
@@ -398,8 +384,7 @@ _Potter's Doe Patronous_
 
 ## Video
 
-### Video File
-
+### Video File   
 {% 
   include embed/video.html 
   src='/assets/vid/Vicky - Hiphop - Dont Stop copy.mp4' 
@@ -411,8 +396,7 @@ _Potter's Doe Patronous_
 {% raw %}
 {% include embed/video.html src='/path/to/video.mp4' %}
 
-You can also specify additional attributes for the embedded video file. Here is a full list of attributes allowed.
-
+You can also specify additional attributes for the embedded video file. Here is a full list of attributes allowed:   
 {%
   include embed/video.html
   src='/path/to/video.mp4'
@@ -432,8 +416,8 @@ You can also specify additional attributes for the embedded video file. Here is 
 - `loop=true` — automatically seek back to the start upon reaching the end of the video
 - `muted=true` — audio will be initially silenced
 
-### Social Media Platform
 
+### Social Media Platform    
 {% include embed/youtube.html id='PsP2vsy_8ms' %}
 
 | Video URL      | Platform   | ID             |
@@ -443,7 +427,6 @@ You can also specify additional attributes for the embedded video file. Here is 
 
 ````markdown
 {% raw %}
-{% include embed/{Platform}.html id='{ID}' %}
 {% include embed/youtube.html id='PsP2vsy_8ms' %}
 
 | Video URL      | Platform   | ID             |

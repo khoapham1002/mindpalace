@@ -19,8 +19,7 @@ Links to Chirpy setup:
 
 <!-- --- -->
 
-## Running Locally
-
+## Running Locally   
 Links to test locally:  
 > <http://127.0.0.1:4000/>  
 > <http://127.0.0.1:4000/mindpalace/>  
@@ -29,8 +28,8 @@ Links to test locally:
 bundle install
 ```
 
-### Start the Jekyll Server
 
+### Start the Jekyll Server   
 ```shell
 bundle exec jekyll serve
 ```
@@ -40,12 +39,12 @@ After adding shortcuts to `code ~/.zshrc` file:
 jserve
 ```
 
-## Managing Posts
 
+## Managing Posts   
 > Link to [Jekyll Compose](https://github.com/jekyll/jekyll-compose)
 
-### Create a Post
 
+### Create a Post   
 ```bash
 bundle exec jekyll post "My New Post"
 bundle exec jekyll compose "My New Post"
@@ -56,8 +55,8 @@ After adding shortcuts to `code ~/.zshrc` file:
 jpost My New Post
 ```
 
-### Other Commands
 
+### Other Commands   
 ```bash
 bundle exec jekyll draft "My new draft"
 ```
@@ -75,8 +74,7 @@ bundle exec jekyll unpublish _posts/2014-01-24-my-new-draft.md
 ```
 
 
-## Front Matter
-
+## Front Matter   
 ```yaml
 ---
 layout: post
@@ -97,8 +95,8 @@ image:
 ---
 ```
 
-#### Author Information
 
+#### Author Information   
 ```yaml
 <author_id>:
   name: <full name>
@@ -106,6 +104,7 @@ image:
   url: <homepage_of_author>
 ```
 {: file="_data/authors.yml" }
+
 
 ## Use Markdown 
 > Link to [Use Markdown](https://khoapham1002.github.io/mindpalace/posts/use-markdown/)  

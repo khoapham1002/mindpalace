@@ -16,8 +16,7 @@ comments: true
 After learning some basic terminal commands, you can/should learn Git!  
 > Go to [Use Git](https://khoapham1002.github.io/mindpalace/posts/use-git/).
 
-### Navigate Directories
-
+### Navigate Directories   
 ```bash
 # Display the current working directory
 pwd
@@ -49,8 +48,8 @@ ls -lh
 ls -R [path]
 ```
 
-### Create and Remove Files/Directories
 
+### Create and Remove Files/Directories   
 ```bash
 # Create an empty file
 touch filename
@@ -82,8 +81,8 @@ rm -R directory_name
 rm -rf directory_name
 ```
 
-### Aliases and Shortcuts
 
+### Aliases and Shortcuts   
 ```bash
 # Open shell configuration file .zshrc or .bashrc
 nano ~/.zshrc
@@ -111,8 +110,8 @@ function nb2html() {
 source ~/.zshrc
 ```
 
-### Shortcuts and Commands
 
+### Shortcuts and Commands   
 ```bash
 # Clear the terminal screen
 clear     # --- Cmd + K --- also works
@@ -124,8 +123,8 @@ history
 !1016     # ![number]
 ```
 
-### Systems Related (Optional)
 
+### Systems Related (Optional)   
 ```bash
 # Display system info (kernel, architecture, etc.)
 uname -a
