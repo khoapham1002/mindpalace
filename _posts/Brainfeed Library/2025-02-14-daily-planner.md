@@ -38,6 +38,7 @@ comments: true
 ***
 
 ## Fitness Tracker
+
 ### Footwork
 - [ ] Jump Rope: 100
 - [ ] High-knees: 100
@@ -50,6 +51,7 @@ comments: true
 - [ ] Plank: 2 min
 - [ ] Leg Raises: 15
 - [ ] Crunches: 30lbs x 15
+
 
 ### Push
 #### Chest
@@ -67,6 +69,7 @@ comments: true
 - [ ] Overhead Extensions: 12lbs x 20
 - [ ] Dips: 70lbs x 20
 
+
 ### Pull
 #### Back
 - [ ] Machine Rows: 50lbs x 18
@@ -82,6 +85,7 @@ comments: true
 #### Trapezius & Rear Delt
 - [ ] Rear Delt Flies: 40lbs x 40
 - [ ] Shrugs: 40lbs x 50
+
 
 ### Lower
 #### Quads & Calves

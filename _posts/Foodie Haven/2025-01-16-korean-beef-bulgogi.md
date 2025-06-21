@@ -13,8 +13,7 @@ toc: true
 comments: true
 ---
 
-## Ingredients:
-
+## Ingredients   
 - 2.5 cups short-grain white rice
 - 2.5 cups water
 - 1 large yellow onion
@@ -30,8 +29,8 @@ comments: true
 - Generous pinch of toasted sesame seeds, to garnish
 - Kimchi (optional), to serve
 
-## Bulgogi Marinade:
 
+## Bulgogi Marinade   
 - 5 tbsp soy sauce
 - 3 tbsp sugar
 - 4 tbsp mirin

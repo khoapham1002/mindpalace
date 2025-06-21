@@ -13,12 +13,11 @@ toc: true
 comments: true
 ---
 
-## Python
-
+## Python   
 I prefer using [Conda environment](https://khoapham1002.github.io/mindpalace/posts/conda-environment/) for managing Python packages, but you can also use Python's built-in `venv` module or `pip` for package management.
 
-### Environments Management
 
+### Environments Management   
 ```bash
 # Create a virtual environment in the current directory
 python3 -m venv py_env
@@ -54,8 +53,8 @@ matplotlib>=3.3,<4.0
 scikit-learn>=0.24
 ```
 
-### Package Management
 
+### Package Management   
 ```bash
 # Upgrade pip to the latest version
 pip3 install --upgrade pip

@@ -13,15 +13,14 @@ toc: true
 comments: true
 ---
 
-## Anaconda/Conda
-
+## Anaconda/Conda   
 [How to Install Anaconda on Mac - Dave Ebbelaar](https://youtu.be/RFeIn2ywxG4?si=nVfrjVQzsGtiu5Sg)  
 [Get Started wit Anaconda - Anaconda Cloud Freelearning](https://freelearning.anaconda.cloud/get-started-with-anaconda/18200)
 
 > Learn about [Python environment](https://khoapham1002.github.io/mindpalace/posts/python-environment/)
 
-### Environments Management
 
+### Environments Management   
 ```bash
 # Display general Conda information
 conda info
@@ -71,8 +70,8 @@ dependencies:
   - scikit-learn=1.2.2
 ```
 
-#### Create and Activate a New Environment
 
+#### Create and Activate a New Environment   
 ```bash
 # Create a new environment
 conda create --name conda_env
@@ -93,8 +92,8 @@ conda deactivate
 conda env remove --name conda_env
 ```
 
-#### Kernel and Jupyter Setup
 
+#### Kernel and Jupyter Setup   
 ```bash
 # Install the IPython kernel package in the environment
 conda install ipykernel
@@ -111,8 +110,8 @@ jupyter lab
 # --- Shutdown Jupyter server (use Ctrl + C) ---
 ```
 
-### Package Management
 
+### Package Management   
 ```bash
 # Install the Anaconda distribution (heavy)
 conda install anaconda
