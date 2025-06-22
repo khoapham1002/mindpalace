@@ -371,21 +371,21 @@ We can reference the equation as \eqref{eq:series}.
 ````
 
 ## Images   
-![Doe_Patronus](assets/favicons/web-app-manifest-512x512.png){: .shadow }
-_Potter's Doe Patronous_
+![Sherlock_MindPalace](assets/favicons/web-app-manifest-512x512.png){: .shadow }
+_Sherlock - MindPalace_
 
-![Doe_Patronus](assets/favicons/web-app-manifest-512x512.png){: w="200" h="200" }{: .normal }
+![Sherlock_MindPalace](assets/favicons/web-app-manifest-512x512.png){: w="200" h="200" }{: .normal }
 
 
 ```markdown
-![Doe_Patronus](assets/favicons/web-app-manifest-512x512.png){: .shadow }
-_Potter's Doe Patronous_   
+![Sherlock_MindPalace](assets/favicons/web-app-manifest-512x512.png){: .shadow }
+_Sherlock - MindPalace_   
 
-![Doe_Patronus](assets/favicons/web-app-manifest-512x512.png){: w="200" h="200" }{: .normal }
+![Sherlock_MindPalace](assets/favicons/web-app-manifest-512x512.png){: w="200" h="200" }{: .normal }
 
-<!-- ![Doe_Patronus](assets/favicons/web-app-manifest-512x512.png){: width="700" height="400" }
-![Doe_Patronus](assets/favicons/web-app-manifest-512x512.png){: .left }
-![Doe_Patronus](assets/favicons/web-app-manifest-512x512.png){: .right } -->
+<!-- ![Sherlock_MindPalace](assets/favicons/web-app-manifest-512x512.png){: width="700" height="400" }
+![Sherlock_MindPalace](assets/favicons/web-app-manifest-512x512.png){: .left }
+![Sherlock_MindPalace](assets/favicons/web-app-manifest-512x512.png){: .right } -->
 ```
 
 ## Video
