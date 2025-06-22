@@ -65,7 +65,7 @@ toc: true
 
 ### **Projects**
 
-#### **Customer Purchase Behavior Analysis** | [GitHub](https://github.com/khoapham1002/Customer-Purchases-Behavior-Analysis) \| [Report](https://github.com/khoapham1002/Customer-Purchases-Behavior-Analysis/blob/main/reports/customer-purchases-habit.pdf)
+#### **Customer Purchase Behavior Analysis** <br> [GitHub](https://github.com/khoapham1002/Customer-Purchases-Behavior-Analysis) \| [Report](https://github.com/khoapham1002/Customer-Purchases-Behavior-Analysis/blob/main/reports/customer-purchases-habit.pdf)
 <!-- <br> Garden Grove, CA \| Sep - Dec 2024 -->
 *Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, Statistical Analysis, Git/GitHub*   
 - Performed EDA on Walmart sales data to analyze spending trends by gender, age, and marital status.
@@ -74,7 +74,7 @@ toc: true
 - Generated recommendations to improve customer acquisition, retention, and marketing strategies.
 
 
-#### **Ecommerce Data Pipeline and Forecasting Model** | [GitHub](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model) \| [Report](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model/blob/main/reports/framework.pdf)
+#### **Ecommerce Data Pipeline and Forecasting Model** <br> [GitHub](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model) \| [Report](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model/blob/main/reports/framework.pdf)
 <!-- <br> Garden Grove, CA \| Jun - Sep 2024 -->
 *Tech Stack: Python (Pandas, NumPy, Matplotlib, Scikit-learn), Spark (PySpark), SQL, Git/GitHub*   
 - Built an OOP-based inventory tracking system for 1,000+ products, ensuring efficient inventory control.
@@ -83,7 +83,7 @@ toc: true
 - Engineered features from time-series data, leveraging weekly sales trends for improved forecasting accuracy.
 
 
-#### **Banking Marketing and Investment Optimization** | [GitHub](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework) \| [Report](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework/blob/main/reports/framework.pdf)
+#### **Banking Marketing and Investment Optimization** <br> [GitHub](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework) \| [Report](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework/blob/main/reports/framework.pdf)
 <!-- <br> Garden Grove, CA \| Sep - Dec 2023 -->
 *Tech Stack: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyPortfolioOpt), SQL, Git/GitHub*   
 - Developed a credit card approval model with 81.8% accuracy, automating risk assessment for banks.
@@ -92,7 +92,7 @@ toc: true
 - Optimized a FAANG stock portfolio using mean&#8209;variance optimization, balancing risk and returns.
 
 
-#### **Healthcare Employee Attrition Prediction** | [GitHub](https://github.com/khoapham1002/Healthcare-Employee-Attrition-Modeling) \| [Report](https://github.com/khoapham1002/Healthcare-Employee-Attrition-Modeling/blob/main/reports/Employee%20Attrition%20with%20Classification%20Tree.pdf)
+#### **Healthcare Employee Attrition Prediction** <br> [GitHub](https://github.com/khoapham1002/Healthcare-Employee-Attrition-Modeling) \| [Report](https://github.com/khoapham1002/Healthcare-Employee-Attrition-Modeling/blob/main/reports/Employee%20Attrition%20with%20Classification%20Tree.pdf)
 <!-- <br> Garden Grove, CA \| Sep - Dec 2023 -->
 *Tech Stack: Python (Pandas, Scikit-Learn, Matplotlib, Seaborn), Decision Tree, Logistic Regression, Git/GitHub*   
 - Developed Decision Tree and Logistic Regression models to predict high&#8209;risk employee attrition.
@@ -101,7 +101,7 @@ toc: true
 - Conducted statistical analysis on work&#8209;life balance, job involvement, and salary trends to support HR decisions.
 
 
-#### **Customer Subscriber Churn Prediction** | [GitHub](https://github.com/khoapham1002/Customer_Subscriber-Churn-Prediction) \| [Report](https://github.com/khoapham1002/Customer_Subscriber-Churn-Prediction/blob/main/reports/customer_churn.pdf)
+#### **Customer Subscriber Churn Prediction** <br> [GitHub](https://github.com/khoapham1002/Customer_Subscriber-Churn-Prediction) \| [Report](https://github.com/khoapham1002/Customer_Subscriber-Churn-Prediction/blob/main/reports/customer_churn.pdf)
 <!-- <br> Garden Grove, CA \| Jun - Sep 2023 -->
 *Tech Stack: Python (Pandas, Scikit-Learn, Matplotlib, Seaborn) Logistic Regression, Decision Tree, Random Forest, K-Means Clustering, Git/GitHub*   
 - Performed EDA on Walmart sales data to analyze spending trends by gender, age, and marital status.
@@ -110,13 +110,19 @@ toc: true
 - Generated recommendations to improve customer acquisition, retention, and marketing strategies.
 
 
-#### **University Mental Health Research Study** | [GitHub](https://github.com/khoapham1002/University-Mental-Health-Research-Study) \| [Report](https://github.com/khoapham1002/University-Mental-Health-Research-Study/blob/main/reports/students_analysis.pdf)
+#### **University Mental Health Research Study** <br> [GitHub](https://github.com/khoapham1002/University-Mental-Health-Research-Study) \| [Report](https://github.com/khoapham1002/University-Mental-Health-Research-Study/blob/main/reports/students_analysis.pdf)
 <!-- <br> Garden Grove, CA \| Jun - Sep 2023 -->
 *Tech Stack: SQL, Python (Pandas, Seaborn, Scikit&#8209;learn, SciPy, Statsmodels), Git/GitHub*   
 - Conducted statistical analysis on 200+ international students, uncovering mental health trends.
 - Developed a Random Forest model predicting student depression risk with 75% accuracy, providing early intervention and recommendations to enhance peer&#8209;support programs.
 
 ---
+
+#### **[Pharmaceutical Market Share & Pricing Analysis](https://github.com/khoapham1002/Vertex-Pharma-OA_Market-Analysis/blob/main/USMA_Coop_Exercise.ipynb)** <br> Vertex Pharmaceutical OA \| Spring 2025
+*Technology: Excel (Pivot Tables), Python (Pandas, Seaborn), Tableau (dashboards)*   
+- Analyzed US pharma sales data to assess market share, pricing, and revenue across regions and therapeutic areas; visualized trends to distinguish volume-driven vs. premium-priced drugs.
+- Delivered insights and recommendations on pricing strategy and affordability, supporting market access decisions based on therapeutic value.
+
 
 #### **[Finance Department's New Hire Request](https://github.com/khoapham1002/Finance-Dept-New-Hire-Request)** <br> Isenberg School of Management \| Fall 2024
 *Technology: SQL (MySQL), Tableau (dashboards), Excel & PowerPoint (reporting)*   
@@ -153,13 +159,13 @@ toc: true
 - Gained hands-on experience with Hadoop, Spark, and MapReduce for processing large datasets, optimizing parsing efficiency, and building inverse index tables for search and retrieval tasks. -->
 
 
-#### **[CICS Informatics Department](https://www.cics.umass.edu/advising/undergraduate-advising/undergraduate-peer-advising)** \| Amherst, MA <br> **Program Mentor & Peer Tutor** \| Sep 2021 - May 2022
+#### **[Data Science Track](https://www.cics.umass.edu/advising/undergraduate-advising/undergraduate-peer-advising)** \| Amherst, MA <br> **Program Mentor & Peer Tutor** \| Sep 2021 - May 2022   
 - Guided students in curriculum planning, career development, technical preparation for data science and analyst roles, connecting them with mentors from the Computer Science Department.
 
 <!-- - Mentored students in the Data Science Track with curriculum planning, long-term academic goal setting, and career development, fostering connections with mentors in the Computer Science Department. -->
 
 
-##### **[CS326: Web Programming](https://github.com/khoapham1002/Data-Science-Interview-Preps-Platform)** \| Amherst, MA <br> **Data Science Interview Preps Platform** \| Sep 2021 - May 2022
+##### **[CS326: Web Programming](https://github.com/khoapham1002/Data-Science-Interview-Preps-Platform)** \| Amherst, MA <br> **Data Science Interview Preps Platform** \| Sep 2021 - May 2022   
 *Technology: SQL, Python, HTML, CSS, JavaScript, Ruby, VSCode (Jupyter Notebook), nbconvert, Git/GitHub*   
 - Developed a Q&A interview practice platform for Python, SQL, and cloud technologies, leveraging Feynman Technique and Active Recall to improve retention of technical concepts and problem&#8209;solving skills.
 
