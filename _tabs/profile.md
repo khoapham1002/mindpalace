@@ -9,7 +9,7 @@ toc: true
 ---
 
 <details open>
-  <summary><span style="font-size: 1.5em; font-weight: normal; color: #f0f0f0dd">Table of Contents</span></summary>
+  <summary><span style="font-size: 1.5em; font-weight: normal; color: #f0f0f0e5">Table of Contents</span></summary>
   <ul style="margin: 0;">
     <li><a href="#education">Education</a></li>
     <li><a href="#technical-skills">Skills</a></li>
