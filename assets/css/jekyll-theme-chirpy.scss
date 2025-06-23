@@ -17,6 +17,26 @@
 //   font-style: italic !important;
 // }
 
+// strong {
+//   color: #dddddd;
+//   font-weight: 900;
+// }
+
+// a {
+//   color:#59a2f7;
+//   text-decoration:none;
+//   font-weight: bold;
+// }
+
+
+@media (max-width: 760px) {
+  #back-to-top {
+    display: none !important;
+  }
+}
+
+
+
 /* 'About Me' custom table */
 .custom-table-container {
   width: 100%;
@@ -44,26 +64,20 @@
   // border: none !important;
 }
 
-.custom-table a {
-  // border-bottom: none !important;
-  // text-decoration: none !important;
-  // box-shadow: none !important; /* In case it's using box-shadow for underline */
-  // color: inherit; /* Keeps text color consistent */
-}
+// .custom-table a {
+//   border-bottom: none !important;
+//   text-decoration: none !important;
+//   box-shadow: none !important; /* In case it's using box-shadow for underline */
+//   color: inherit; /* Keeps text color consistent */
+// }
 
-.custom-table a:hover {
-  // text-decoration: underline !important;
-  // border-bottom: underline !important;
-}
+// .custom-table a:hover {
+//   text-decoration: underline !important;
+//   border-bottom: underline !important;
+// }
 
 @media print, screen and (max-width: 480px) {
   .custom-table {
     table-layout: auto; /* Ensures equal column width */
-  }
-}
-
-@media (max-width: 760px) {
-  #back-to-top {
-    display: none !important;
   }
 }
