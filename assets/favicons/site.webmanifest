@@ -6,7 +6,7 @@ layout: compress
 
 {
   "name": "{{ site.title }}",
-  "short_name": "My MindPalace",
+  "short_name": "MindPalace",
   "description": "{{ site.description }}",
   "icons": [
     {
@@ -23,6 +23,5 @@ layout: compress
     }
   ],
   "theme_color": "#ffffff",
-  "background_color": "#ffffff",
-  "display": "fullscreen"
+  "background_color": "#ffffff"
 }
