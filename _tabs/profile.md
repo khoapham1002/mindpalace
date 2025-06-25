@@ -21,7 +21,7 @@ toc: true
   <!-- <p style="font-weight: bold; margin-left: 10px;"> 👉 &nbsp; <a href="./"> Home</a></p> -->
 </details>
 
-> 🧑‍💻 Remove `/mindpalace...` to see my **[resume website](https://khoapham1002.github.io/)**! 💼
+> Remove `/mindpalace...` to see my **[resume website](https://khoapham1002.github.io/)**! 👀
 
 <!-- > 🧑‍💻 Remove `/mindpalace...` to see my **[resume website](https://khoapham1002.github.io/)**! 💼
 {: .prompt-info } -->
@@ -200,7 +200,7 @@ Contact Info:
 - **Dance**: ...a little at MDC Dance ([@mdcdance][mdcdance])!
 - **Blogging**: *[...work in progress...][blog]* 🤧 -> Visit my [first blog][isenberg] instead!
 
-> Add `/mindpalace` after `github.io` to have a peek of another **[me][mindpalace]**! 👀
+<!-- > Add `/mindpalace` after `github.io` to have a peek of another **[me][mindpalace]**! 👀 -->
 
 [vsco]: https://vsco.co/teenee3051/gallery
 [dance]: https://www.instagram.com/teenee_archives/reels/

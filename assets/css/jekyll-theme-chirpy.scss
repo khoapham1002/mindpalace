@@ -102,9 +102,9 @@
 }
 
 .photo-grid img:hover {
-  transform: scale(1.03);
+  transform: scale(1.1);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
-  // filter: brightness(80%);
   filter: brightness(110%) saturate(120%);
-  outline: 2px solid #b3b8bd;
+  // filter: brightness(80%);
+  // outline: 2px solid #b3b8bd;
 }
