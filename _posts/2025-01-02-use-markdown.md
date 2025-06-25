@@ -10,7 +10,18 @@ math: true
 mermaid: true
 toc: true
 comments: true
+image:
+  path: https://chirpy-img.netlify.app/commons/devices-mockup.png
+  # lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
+
+## Links   
+> Link to [Chirpy](https://chirpy.cotes.page)
+
+```markdown
+Link to [Chirpy](https://chirpy.cotes.page)
+```
 
 Link to [Writing a New Post](https://chirpy.cotes.page/posts/write-a-new-post/). Footnote1 here [^fn1]   
 > <https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-write-a-new-post.md?plain=1>
@@ -22,14 +33,6 @@ Link to [Text and Typography](https://chirpy.cotes.page/posts/text-and-typograph
 Link to [Use Jekyll](https://khoapham1002.github.io/mindpalace/posts/use-jekyll/)
 
 Jekyll is a static site generator that transforms plain text into static websites and blogs. When used together with Markdown, Jekyll allows users to write content in a simple, readable format that can be easily converted into HTML. Markdown's straightforward syntax makes it easy to format text, create lists, add links, and include code snippets, while Jekyll handles the layout and structure of the site. This combination provides a powerful yet user-friendly way to create and manage static websites.
-
-
-## Links   
-> Link to [Chirpy](https://chirpy.cotes.page)
-
-```markdown
-Link to [Chirpy](https://chirpy.cotes.page)
-```
 
 
 ## Headings   
