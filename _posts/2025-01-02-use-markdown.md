@@ -10,10 +10,9 @@ math: true
 mermaid: true
 toc: true
 comments: true
-image:
-  path: https://chirpy-img.netlify.app/commons/devices-mockup.png
-  # lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Responsive rendering of Chirpy theme on multiple devices.
+image: 
+    path: /assets/img/sherlock-get-out-mindpalace-meme.jpeg
+    alt: Size for preview is 1200 x 630 (1.91:1 aspect ratio)
 ---
 
 ## Links   
@@ -111,13 +110,15 @@ This is <strong>bold</strong> text using HTML syntax. <br>
 
 ## Description list   
 ***Term 1***
-: _Definition of term 1_   
+: _Definition of term 1_
+
 **Term 2**
 : ~~Wrong definition of term 2~~
 
 ```markdown
 ***Term 1***
 : _Definition of term 1_   
+
 **Term 2**
 : ~~Wrong definition of term 2~~
 ```

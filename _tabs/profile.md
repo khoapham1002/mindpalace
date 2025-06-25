@@ -22,7 +22,9 @@ toc: true
 </details>
 
 > 🧑‍💻 Remove `/mindpalace...` to see my **[resume website](https://khoapham1002.github.io/)**! 💼
-{: .prompt-info }
+
+<!-- > 🧑‍💻 Remove `/mindpalace...` to see my **[resume website](https://khoapham1002.github.io/)**! 💼
+{: .prompt-info } -->
 
 * * *
 
@@ -32,6 +34,13 @@ toc: true
   📊 I'm passionate about using data to uncover insights and support strategic decision-making. <br>
   📈 My experience in finance and healthcare has enabled me to strengthen my data analysis and research skills. <br>
   🧑‍💻 Proficient in SQL, Python, R, Tableau and Git; while actively enhancing my expertise in Data Engineering and Cloud technologies. <br>
+
+Contact Info:
+: 
+  📍 Based in Los Angeles, CA <br>
+  📞 Contact me 714-858-7494 <br>
+  📧 kdpham@umass.edu (School) <br>
+  💌 kdpham1002@gmail.com (Personal) <br>
 
 * * *
 
@@ -191,7 +200,7 @@ toc: true
 - **Dance**: ...a little at MDC Dance ([@mdcdance][mdcdance])!
 - **Blogging**: *[...work in progress...][blog]* 🤧 -> Visit my [first blog][isenberg] instead!
 
-> Add `/mindpalace` after `github.io` to have a peek of another **[me][mindpalace]**!
+<!-- > Add `/mindpalace` after `github.io` to have a peek of another **[me][mindpalace]**! 👀 -->
 
 [vsco]: https://vsco.co/teenee3051/gallery
 [dance]: https://www.instagram.com/teenee_archives/reels/
@@ -200,10 +209,10 @@ toc: true
 [isenberg]: https://isenbergmarketing.wordpress.com/2023/06/12/netflix-and-learn/?fbclid=IwZXh0bgNhZW0CMTEAAR1hEqlSY2sZx2p6ysM-EFkoQkFC4r9FBFxAKLc-z-wHuv3fW_YzuziMpSc_aem_v81C0HMR5vpAzpT02UQxqA
 [mindpalace]: https://khoapham1002.github.io/mindpalace/
 
-* * *
+<!-- * * *
 
 #### Contact Information:
 📍 Based in Los Angeles, CA <br>
 📞 Contact me 714-858-7494 <br>
 📧 kdpham@umass.edu (School) <br>
-💌 kdpham1002@gmail.com (Personal) <br>
+💌 kdpham1002@gmail.com (Personal) <br> -->
