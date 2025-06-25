@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Gallery
+title: My Gallery
 order: 6
-icon: fas fa-images
+icon: fas fa-image
 ---
 
 ## Test Gallery
