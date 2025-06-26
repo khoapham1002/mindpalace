@@ -14,6 +14,8 @@ icon: fas fa-image
     </ul>
 </details>
 
+> 💁‍♀️ Check out more Inspos on [VSCO](https://vsco.co/teenee3051/gallery) and [Instagram](https://www.instagram.com/teenee_archives/)! 📸
+
 
 ## Test Gallery 1
 
@@ -41,7 +43,6 @@ icon: fas fa-image
 </div>
 
 
-
 ## Test Gallery 2
 
 <div class="photo-grid" data-aos="fade-up">
@@ -66,7 +67,6 @@ icon: fas fa-image
     <img src="/assets/img/sherlock-mindpalace.jpg" title="Sherlock Mindpalace" alt="Sherlock Mindpalace" loading="lazy">
     <img src="/assets/posts_media/Brainfeed Library/my-first-blog_godzilla-chibi.png" title="Chibi Godzilla" alt="Chibi Godzilla" loading="lazy">
 </div>
-
 
 
 ## Test Gallery 3
