@@ -46,16 +46,4 @@
 
     {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
   </p> -->
-
-  <!-- AOS Animate On Scroll JS -->
-  <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
-  <script>
-    AOS.init({
-      duration: 700,        // All animations last 700ms
-      offset: 180,          // All animations trigger 120px into view
-      easing: 'ease-out',   // Smooth scroll-in feel
-      delay: 200,           // 100 = wait 0.1 seconds before animating
-      once: true           // Allows animations to replay on scroll up
-    });
-  </script>
 </footer>
