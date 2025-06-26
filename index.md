@@ -31,7 +31,7 @@ title: About Me
 > 💭 This site is my **brain dump**, my **digital archive**, my **creative journal**! ✍️
 {: .prompt-info }
 
-> 🧑‍💻 Looking for the ***serious me***...? 🤓 Head over to my **[resume website](https://khoapham1002.github.io/)**! 💼
+> 🧑‍💻 Looking for the **serious me**...? 🤓 Head over to my **[resume website](https://khoapham1002.github.io/)**! 💼
 {: .prompt-tip }
 
 
