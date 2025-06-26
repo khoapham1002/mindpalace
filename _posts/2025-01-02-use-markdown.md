@@ -403,7 +403,12 @@ _Sherlock - MindPalace_
 
 ````markdown
 {% raw %}
-{% include embed/video.html src='/path/to/video.mp4' %}
+{% 
+  include embed/video.html 
+  src='/assets/vid/Vicky - Hiphop - Dont Stop copy.mp4' 
+  poster='/assets/vid/Vicky - Hiphop - Dont Stop-Cover copy.jpg' 
+  title= "Vicky - Hiphop - Don't Stop (Cover)" 
+%}
 
 You can also specify additional attributes for the embedded video file. Here is a full list of attributes allowed:   
 {%
