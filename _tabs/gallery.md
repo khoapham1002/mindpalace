@@ -8,26 +8,24 @@ icon: fas fa-image
 ## Test Gallery
 
 <div class="photo-grid">
-<img src="assets/img/doe-patronus.jpeg" alt="Photo 1" title="Doe Patronus" loading="lazy">
-<img src="assets/img/cat-developer.jpg" alt="Photo 5" title="Cat Developer" loading="lazy">
-<img src="assets/img/sherlock-mindpalace.jpg" alt="Photo 11" title="Sherlock Mindpalace" loading="lazy">
-<img src="assets/vid/Vicky - Hiphop - Dont Stop-Cover copy.jpg" alt="Photo 2" title="Vicky - Don't Stop" loading="lazy">
-<img src="assets/img/sherlock-violin-playing.GIF" alt="Photo 9" title="Sherlock Violin Playing" loading="lazy">
-<img src="assets/img/NYC21_00244.JPG" alt="Photo 3" title="NYC21 00244" loading="lazy">
-<img src="assets/img/sherlock-use-your-mindpalace-meme.jpeg" alt="Photo 7" title="Sherlock Use Your Mindpalace Meme" loading="lazy">
-<img src="assets/img/sherlock-get-out-mindpalace-meme.jpeg" alt="Photo 8" title="Sherlock Get Out Mindpalace Meme" loading="lazy">
-<img src="assets/posts_media/Brainfeed Library/my-first-blog_godzilla-chibi.png" alt="Photo 10" title="Chibi Godzilla" loading="lazy">
-<img src="assets/img/doe-patronus.jpeg" alt="Photo 1" title="Doe Patronus" loading="lazy">
-<img src="assets/img/cat-developer.jpg" alt="Photo 5" title="Cat Developer" loading="lazy">
-<img src="assets/vid/Vicky - Hiphop - Dont Stop-Cover copy.jpg" alt="Photo 2" title="Vicky - Don't Stop" loading="lazy">
-<img src="assets/img/sherlock-violin-playing.GIF" alt="Photo 9" title="Sherlock Violin Playing" loading="lazy">
-<img src="assets/img/sherlock-use-your-mindpalace-meme.jpeg" alt="Photo 7" title="Sherlock Use Your Mindpalace Meme" loading="lazy">
-<img src="assets/img/sherlock-get-out-mindpalace-meme.gif" alt="Photo 10" title="Sherlock Get Out Mindpalace Meme" loading="lazy">
-<img src="assets/img/NYC21_00244.JPG" alt="Photo 3" title="NYC21 00244" loading="lazy">
-<img src="assets/img/sherlock-get-out-mindpalace-meme.jpeg" alt="Photo 8" title="Sherlock Get Out Mindpalace Meme" loading="lazy">
-<img src="assets/img/doe-patronus.jpeg" alt="Photo 12" title="Doe Patronus" loading="lazy">
-<img src="assets/img/sherlock-mindpalace.jpg" alt="Photo 11" title="Sherlock Mindpalace" loading="lazy">
-<img src="assets/posts_media/Brainfeed Library/my-first-blog_godzilla-chibi.png" alt="Photo 10" title="Chibi Godzilla" loading="lazy">
-<!-- <img src="assets/img/My Portrait 2024.jpg" alt="Photo 4" loading="lazy">
-<img src="assets/img/Graduation Portrait 2024.jpg" alt="Photo 12" loading="lazy"> -->
+    <img src="assets/img/doe-patronus.jpeg" title="Doe Patronus">
+    <img src="assets/img/cat-developer.jpg" title="Cat Developer">
+    <img src="assets/img/sherlock-mindpalace.jpg" title="Sherlock Mindpalace">
+    <img src="assets/vid/Vicky - Hiphop - Dont Stop-Cover copy.jpg" title="Vicky - Don't Stop">
+    <img src="assets/img/sherlock-violin-playing.GIF" title="Sherlock Violin Playing">
+    <img src="assets/img/NYC21_00244.JPG" title="NYC21 00244">
+    <img src="assets/img/sherlock-use-your-mindpalace-meme.jpeg" title="Sherlock Use Your Mindpalace Meme">
+    <img src="assets/img/sherlock-get-out-mindpalace-meme.jpeg" title="Sherlock Get Out Mindpalace Meme">
+    <img src="assets/posts_media/Brainfeed Library/my-first-blog_godzilla-chibi.png" title="Chibi Godzilla">
+    <img src="assets/img/doe-patronus.jpeg" title="Doe Patronus">
+    <img src="assets/img/cat-developer.jpg" title="Cat Developer">
+    <img src="assets/vid/Vicky - Hiphop - Dont Stop-Cover copy.jpg" title="Vicky - Don't Stop">
+    <img src="assets/img/sherlock-violin-playing.GIF" title="Sherlock Violin Playing">
+    <img src="assets/img/sherlock-use-your-mindpalace-meme.jpeg" title="Sherlock Use Your Mindpalace Meme">
+    <img src="assets/img/sherlock-get-out-mindpalace-meme.gif" title="Sherlock Get Out Mindpalace Meme">
+    <img src="assets/img/NYC21_00244.JPG" title="NYC21 00244">
+    <img src="assets/img/sherlock-get-out-mindpalace-meme.jpeg" title="Sherlock Get Out Mindpalace Meme">
+    <img src="assets/img/doe-patronus.jpeg" title="Doe Patronus">
+    <img src="assets/img/sherlock-mindpalace.jpg" title="Sherlock Mindpalace">
+    <img src="assets/posts_media/Brainfeed Library/my-first-blog_godzilla-chibi.png" title="Chibi Godzilla">
 </div>
