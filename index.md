@@ -28,7 +28,7 @@ title: About Me
 
 <!-- ## 🚨 **Heads Up** -->
 
-> 💭 This site is my brain dump, my digital archive, and my creative journal! 🏰
+> 💭 This site is my **brain dump**, my **digital archive**, my **creative journal**! ✍️
 {: .prompt-info }
 
 > 🧑‍💻 Looking for the ***serious me***...? 🤓 Head over to my **[resume website](https://khoapham1002.github.io/)**! 💼

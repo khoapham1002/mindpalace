@@ -1,8 +1,9 @@
 #  The contact options.
 
-- type: website
-  icon: 'fa-solid fa-user' # icons powered by <https://fontawesome.com/>
-  url: 'https://khoapham1002.github.io/'
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+  url: 'mailto:teenee3051@icloud.com'
 
 - type: github
   icon: 'fab fa-github'
@@ -12,10 +13,9 @@
   icon: 'fab fa-linkedin'
   url:  'https://www.linkedin.com/in/kdpham1002/'
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-  url: 'mailto:teenee3051@icloud.com'
+- type: website
+  icon: 'fa-solid fa-user' # icons powered by <https://fontawesome.com/>
+  url: 'https://khoapham1002.github.io/'
 
 # - type: photography
 #   icon: 'fa-solid fa-camera'
