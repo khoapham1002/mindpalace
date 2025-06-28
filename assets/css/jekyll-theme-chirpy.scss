@@ -97,15 +97,15 @@
   padding: 10px;
 }
 
-// Small phones like iPhone SE — 2 columns
-@media (max-width: 399px) {
+// Smartphones — 2 columns
+@media (max-width: 450px) {
   .photo-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
 // Tablets and big phones — 3 columns
-@media (min-width: 400px) and (max-width: 1024px) {
+@media (min-width: 451px) and (max-width: 1024px) {
   .photo-grid {
     grid-template-columns: repeat(3, 1fr);
   }
