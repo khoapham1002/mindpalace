@@ -396,7 +396,7 @@ _Sherlock - MindPalace_
 ### Video File   
 {% 
   include embed/video.html 
-  src='/assets/vid/Vicky - Hiphop - Dont Stop copy.mp4' 
+  src='/assets/vid/Champion - @treestumpstudios.mp4' 
   poster='/assets/vid/Vicky - Hiphop - Dont Stop-Cover copy.jpg' 
   title= "Vicky - Hiphop - Don't Stop (Cover)" 
 %}
@@ -405,7 +405,7 @@ _Sherlock - MindPalace_
 {% raw %}
 {% 
   include embed/video.html 
-  src='/assets/vid/Vicky - Hiphop - Dont Stop copy.mp4' 
+  src='/assets/vid/Champion - @treestumpstudios.mp4' 
   poster='/assets/vid/Vicky - Hiphop - Dont Stop-Cover copy.jpg' 
   title= "Vicky - Hiphop - Don't Stop (Cover)" 
 %}
