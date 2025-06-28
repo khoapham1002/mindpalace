@@ -97,17 +97,31 @@
   padding: 10px;
 }
 
-// iPhone 13 and small phones — 2 columns
+// iPhone 13 and small phones — 3 columns
 @media (max-width: 599px) {
   .photo-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
-// Tablets like iPad Pro — 4 columns
-@media (min-width: 600px) and (max-width: 1023px) {
+// Tablets like iPad Pro — 3 columns
+// @media (min-width: 600px) and (max-width: 1023px) {
+//   .photo-grid {
+//     grid-template-columns: repeat(3, 1fr);
+//   }
+// }
+
+/* iPads Portrait — 3 columns */
+@media (min-width: 600px) and (orientation: portrait) {
   .photo-grid {
     grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* iPads Landscape — 6 columns */
+@media (min-width: 600px) and (orientation: landscape) {
+  .photo-grid {
+    grid-template-columns: repeat(6, 1fr);
   }
 }
 
