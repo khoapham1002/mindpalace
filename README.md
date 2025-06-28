@@ -18,8 +18,6 @@
 
 </div>
 
-## Usage   
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
 ## Documentation   
 To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
