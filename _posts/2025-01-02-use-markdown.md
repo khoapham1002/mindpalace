@@ -398,7 +398,8 @@ _Sherlock - MindPalace_
   include embed/video.html 
   src='/assets/vid/Champion - @treestumpstudios.mp4' 
   poster='/assets/vid/Vicky - Hiphop - Dont Stop-Cover copy.jpg' 
-  title= "Vicky - Hiphop - Don't Stop (Cover)" 
+  title= "Vicky - Hiphop - Don't Stop (Cover)"
+  loop=true
 %}
 
 ````markdown
