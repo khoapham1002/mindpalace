@@ -408,6 +408,7 @@ _Sherlock - MindPalace_
   src='/assets/vid/Champion - @treestumpstudios.mp4' 
   poster='/assets/vid/Vicky - Hiphop - Dont Stop-Cover copy.jpg' 
   title= "Vicky - Hiphop - Don't Stop (Cover)" 
+  loop=true
 %}
 
 You can also specify additional attributes for the embedded video file. Here is a full list of attributes allowed:   
