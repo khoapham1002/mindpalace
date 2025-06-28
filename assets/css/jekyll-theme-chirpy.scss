@@ -83,11 +83,39 @@
 }
 
 /* Gallery page */
+
+// .photo-grid {
+//   display: grid;
+//   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+//   gap: 10px;
+//   padding: 10px;
+// }
+
 .photo-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   gap: 10px;
   padding: 10px;
+}
+
+// iPhone 13 and small phones — 2 columns
+@media (max-width: 599px) {
+  .photo-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+// Tablets like iPad Pro — 4 columns
+@media (min-width: 600px) and (max-width: 1023px) {
+  .photo-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+// MacBook 14" and larger — 6 columns
+@media (min-width: 1024px) {
+  .photo-grid {
+    grid-template-columns: repeat(6, 1fr);
+  }
 }
 
 .photo-grid img {
