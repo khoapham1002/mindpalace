@@ -3,16 +3,19 @@ layout: page
 title: My Gallery
 order: 2
 icon: fas fa-image
+toc: true
 ---
 
-<details open>
+<!-- <details open>
     <summary><span style="font-size: 1.5em; font-weight: normal; color: #f0f0f0e5">Table of Contents</span></summary>
     <ul style="margin: 0;">
         <li><a href="#test-gallery-1">Test Gallery 1</a></li>
         <li><a href="#test-gallery-2">Test Gallery 2</a></li>
         <li><a href="#test-gallery-3">Test Gallery 3</a></li>
     </ul>
-</details>
+</details> -->
+
+{% include toc.html %}
 
 > 💁‍♀️ Check out more Inspos on [VSCO](https://vsco.co/teenee3051/gallery) and [Instagram](https://www.instagram.com/teenee_archives/)! 📸
 
