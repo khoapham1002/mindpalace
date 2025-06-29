@@ -3,6 +3,7 @@ layout: page
 title: My Gallery
 order: 2
 icon: fas fa-image
+enable_toc: true
 ---
 
 <!-- <details open>
