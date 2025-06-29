@@ -3,7 +3,6 @@ layout: page
 title: My Gallery
 order: 2
 icon: fas fa-image
-toc: true
 ---
 
 <!-- <details open>
@@ -14,8 +13,6 @@ toc: true
         <li><a href="#test-gallery-3">Test Gallery 3</a></li>
     </ul>
 </details> -->
-
-{% include toc.html %}
 
 > 💁‍♀️ Check out more Inspos on [VSCO](https://vsco.co/teenee3051/gallery) and [Instagram](https://www.instagram.com/teenee_archives/)! 📸
 
