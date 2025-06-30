@@ -9,13 +9,11 @@ panel_includes:
 
 {% include toc-status.html %}
 
-<article class="px-1" {% if page.enable_toc %}data-toc="true"{% endif %}>
+<article class="px-1" data-toc="{{ page.enable_toc }}">
   {% if page.layout == 'page' or page.collection == 'tabs' %}
     {% assign tab_key = page.title | downcase %}
     {% assign title = site.data.locales[lang].tabs[tab_key] | default: page.title %}
-    <h1 class="dynamic-title">
-      {{ title }}
-    </h1>
+    <h1 class="dynamic-title" data-toc-skip>{{ title }}</h1>
 
     {% if page.enable_toc %}
       <div id="toc-bar" class="d-flex align-items-center justify-content-between invisible">
