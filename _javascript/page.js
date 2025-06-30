@@ -4,15 +4,15 @@ import {
   loadImg,
   imgPopup,
   initClipboard,
-  loadMermaid,
-  initToc
+  initToc,
+  loadMermaid
 } from './modules/components';
 
 loadImg();
+initToc();
 imgPopup();
 initSidebar();
 initTopbar();
 initClipboard();
 loadMermaid();
-initToc();
 basic();

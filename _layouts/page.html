@@ -7,6 +7,8 @@ panel_includes:
 
 {% include lang.html %}
 
+{% include toc-status.html %}
+
 <article class="px-1" {% if page.enable_toc %}data-toc="true"{% endif %}>
   {% if page.layout == 'page' or page.collection == 'tabs' %}
     {% assign tab_key = page.title | downcase %}
