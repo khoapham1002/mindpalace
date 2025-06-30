@@ -19,7 +19,7 @@ image:
 > Link to [Chirpy](https://chirpy.cotes.page)
 
 ```markdown
-Link to [Chirpy](https://chirpy.cotes.page)
+> Link to [Chirpy](https://chirpy.cotes.page)
 ```
 
 Link to [Writing a New Post](https://chirpy.cotes.page/posts/write-a-new-post/). Footnote1 here [^fn1]   
@@ -374,17 +374,17 @@ We can reference the equation as \eqref{eq:series}.
 ````
 
 ## Images   
-![Sherlock_MindPalace](assets/favicons/web-app-manifest-512x512.png){: .shadow }
+![Sherlock_MindPalace](/assets/favicons/web-app-manifest-512x512.png){: .shadow }
 _Sherlock - MindPalace_
 
-![Sherlock_MindPalace](assets/favicons/web-app-manifest-512x512.png){: w="200" h="200" }{: .normal }
+![Sherlock_MindPalace](/assets/favicons/web-app-manifest-512x512.png){: w="200" h="200" }{: .normal }
 
 
 ```markdown
-![Sherlock_MindPalace](assets/favicons/web-app-manifest-512x512.png){: .shadow }
+![Sherlock_MindPalace](/assets/favicons/web-app-manifest-512x512.png){: .shadow }
 _Sherlock - MindPalace_   
 
-![Sherlock_MindPalace](assets/favicons/web-app-manifest-512x512.png){: w="200" h="200" }{: .normal }
+![Sherlock_MindPalace](/assets/favicons/web-app-manifest-512x512.png){: w="200" h="200" }{: .normal }
 
 <!-- ![Sherlock_MindPalace](assets/favicons/web-app-manifest-512x512.png){: width="700" height="400" }
 ![Sherlock_MindPalace](assets/favicons/web-app-manifest-512x512.png){: .left }

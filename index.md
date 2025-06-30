@@ -37,7 +37,7 @@ title: About Me
 {: .prompt-tip }
 
 
-![sherlock-meme1](/assets/img/sherlock-get-out-mindpalace-meme.gif){: width="600" height="300" }{: .shadow }
+![sherlock-meme1](/assets/img/sherlock-get-out-mindpalace-meme.gif){: width="600" height="200" }{: .shadow }
 _Sherlock S02E02_
 
 ![sherlock-meme2](/assets/img/sherlock-use-your-mindpalace-meme.jpeg){: width="400" height="200" }{: .shadow }
