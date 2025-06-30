@@ -37,11 +37,17 @@ title: About Me
 {: .prompt-tip }
 
 
-![sherlock-meme1](/assets/img/sherlock-get-out-mindpalace-meme.gif){: width="700" height="400" }
+![sherlock-meme1](/assets/img/sherlock-get-out-mindpalace-meme.gif){: width="600" height="300" }{: .shadow }
 _Sherlock S02E02_
 
-![sherlock-meme2](assets/img/sherlock-use-your-mindpalace-meme.jpeg){: width="600" height="400" }
+![sherlock-meme2](/assets/img/sherlock-use-your-mindpalace-meme.jpeg){: width="400" height="200" }{: .shadow }
 _Sherlock S03E01_
+
+![himym-meme2](/assets/img/HIMYM-S01E12.jpg){: width="400" height="200" }{: .shadow }
+_How I Met Your Mother S01E12_
+
+![himym-meme1](/assets/img/HIMYM-S09E17.jpg){: width="400" height="200" }{: .shadow }
+_How I Met Your Mother S09E17_
 
 * * *
 
@@ -60,6 +66,7 @@ _Sherlock S03E01_
 *A silence that stayed...*
 {% include embed/youtube.html id='0sr8X34vjtk' %}
 
+* * *
 
 *Juxtapositions I like...*
 > ⚖️ Delicate balance of calm and chaos 🔥 <br>
