@@ -5,7 +5,7 @@ title: My Profile
 icon: fas fa-user
 # icon: fas fa-info-circle
 order: 7
-# enable_toc: true
+toc: true
 ---
 
 <details open>

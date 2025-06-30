@@ -3,7 +3,6 @@ layout: page
 title: My Gallery
 icon: fas fa-photo-video
 order: 2
-enable_toc: true
 toc: true
 ---
 
