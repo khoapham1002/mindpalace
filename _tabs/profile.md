@@ -5,7 +5,7 @@ title: My Profile
 icon: fas fa-user
 # icon: fas fa-info-circle
 order: 7
-toc: true
+enable_toc: true
 ---
 
 <details open>
@@ -44,7 +44,7 @@ Contact Info:
 
 * * *
 
-### **Education**   
+## **Education**   
 #### **University of Massachusetts - Amherst** \| _Sep 2019 - May 2024_   
 - **M.B.A in Business Analytics** (Accelerated 4+1 Program)
 - **B.S in Informatics Data Science** \| Minor: Statistics \| Pre&#8209;Med Track
@@ -55,7 +55,7 @@ Contact Info:
 
 * * *
 
-### **Skills**   
+## **Skills**   
 - **Programming & Tools:** SQL, Python, R/RStudio, Tableau/Power BI, Git/GitHub; MS Office (Excel, Word, PowerPoint, Access, Outlook, Project)
 - **Cloud & Big Data:** AWS (S3, Redshift, Glue, QuickSight), Snowflake, Spark (PySpark)
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit&#8209;learn, Statsmodels, SciPy, PyTorch
@@ -72,7 +72,7 @@ Contact Info:
 
 * * *
 
-### **Projects**
+## **Projects**
 
 #### **Customer Purchase Behavior Analysis** <br> **[GitHub](https://github.com/khoapham1002/Customer-Purchases-Behavior-Analysis)** \| **[Report](https://github.com/khoapham1002/Customer-Purchases-Behavior-Analysis/blob/main/reports/customer-purchases-habit.pdf)**
 <!-- <br> Garden Grove, CA \| Sep - Dec 2024 -->
@@ -152,7 +152,7 @@ Contact Info:
 
 * * *
 
-### **Experience**
+## **Experience**
 
 #### **[Center for Teaching and Learning](https://www.umass.edu/ctl/grants-awards)** \| _Amherst, MA_ <br> **Data Management Coordinator** \| _Sep - Dec 2023_
 - Managed and cleaned survey data for workshop participation analysis, ensuring data accuracy. Developed automated reports recognizing 300+ professors and lecturers for Distinguished Teaching Awards.   
@@ -194,7 +194,7 @@ Contact Info:
 
 * * *
 
-### **Interests**   
+## **Interests**   
 - **Photography**: I like capturing dance movements. Check ([VSCO][vsco])!
 - **Videography**: I also film for dance classes! Check ([@teenee_archives][dance])!
 - **Dance**: ...a little at MDC Dance ([@mdcdance][mdcdance])!
