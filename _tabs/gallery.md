@@ -1,7 +1,8 @@
 ---
 layout: page
 title: My Gallery
-icon: fas fa-photo-video
+icon: fas fa-camera
+# icon: fas fa-photo-video
 order: 2
 toc: true
 ---
@@ -15,8 +16,10 @@ toc: true
     </ul>
 </details>
 
-> 💁‍♀️ Check out more Inspos on [VSCO](https://vsco.co/teenee3051/gallery) and [Instagram](https://www.instagram.com/teenee_archives/)! 📸
+> 💁‍♀️ Check out more Inspos on [VSCO](https://vsco.co/teenee3051/gallery)! 📸   
+> 💁‍♂️ Check out more Reels on [Instagram](https://www.instagram.com/teenee_archives/reels)! 🎞️
 
+* * *
 
 ## Test Gallery 1
 

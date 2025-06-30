@@ -28,7 +28,7 @@ toc: true
 
 * * *
 
-#### 👋 Hi there, I'm Khoa Pham!
+### 👋 Hi there, I'm Khoa Pham!
 
   🎓 I'm a Master's student majoring in Business Analytics and Data Science. <br>
   📊 I'm passionate about using data to uncover insights and support strategic decision-making. <br>

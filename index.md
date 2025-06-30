@@ -8,7 +8,7 @@ title: About Me
   <table class="custom-table">
     <tbody>
       <tr>
-        <td><a href="https://github.com/khoapham1002?tab=repositories">GitHub</a></td>
+        <td><a href="https://github.com/khoapham1002">GitHub</a></td>
         <td><a href="https://www.linkedin.com/in/kdpham1002/">LinkedIn</a></td>
         <td><a href="https://vsco.co/teenee3051/gallery">VSCO/Inspo</a></td>
       </tr>
@@ -26,6 +26,8 @@ title: About Me
   </table>
 </div>
 
+* * *
+
 <!-- ## 🚨 **Heads Up** -->
 
 > 🤔 This site is my **brain dump**, my **digital archive**, my **creative journal**! ✍️
@@ -41,6 +43,7 @@ _Sherlock S02E02_
 ![sherlock-meme2](assets/img/sherlock-use-your-mindpalace-meme.jpeg){: width="600" height="400" }
 _Sherlock S03E01_
 
+* * *
 
 *A romance in disguise...*
 {% include embed/youtube.html id='_epl4M8A0nU' %}
@@ -50,6 +53,12 @@ _Sherlock S03E01_
 
 *A song that touched...*
 {% include embed/youtube.html id='OcCkAG_LO9Y' %}
+
+*A melody that lingered...*
+{% include embed/youtube.html id='2ZshWwX1884' %}
+
+*A silence that stayed...*
+{% include embed/youtube.html id='0sr8X34vjtk' %}
 
 
 *Juxtapositions I like...*
