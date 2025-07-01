@@ -1,10 +1,5 @@
 #  The contact options.
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-  url: 'mailto:teenee3051@icloud.com'
-
 - type: github-repo
   icon: 'fab fa-github'
   url: 'https://github.com/khoapham1002?tab=repositories'
@@ -13,9 +8,22 @@
   icon: 'fab fa-linkedin'
   url:  'https://www.linkedin.com/in/kdpham1002/'
 
+- type: resume
+  icon: 'fa-solid fa-file-lines'
+  url: 'https://drive.google.com/file/d/11vmYaw8fkSDfkxlwXCtYpTNWSdpLNRvd/view?usp=sharing'
+
 - type: website
   icon: 'fa-solid fa-user' # icons powered by <https://fontawesome.com/>
   url: 'https://khoapham1002.github.io/'
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+  url: 'mailto:teenee3051@icloud.com'
+
+- type: youtube
+  icon: 'fab fa-youtube'
+  url: 'https://www.youtube.com/playlist?list=PLpvLImcc_it-rOI-5Eyd2wVEiP8ijqvHb'
 
 - type: dance
   icon: 'fa-solid fa-film'

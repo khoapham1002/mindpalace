@@ -49,17 +49,19 @@ Jekyll is a static site generator that transforms plain text into static website
 *italic* or _italic_ <br>
 **bold** or __bold__ <br>
 ***bold and italic*** or ___bold and italic___ <br>
-This is <strong>bold</strong> text using HTML syntax. <br>
+<strong>bold</strong> and <em>italic</em> text using HTML syntax. 
 
-~~This is strikethrough text.~~
+~~This is strikethrough text.~~ <br>
+<del>Strikethrough text using HTML.</del> 
 
 ```markdown
 *italic* or _italic_ <br>
 **bold** or __bold__ <br>
 ***bold and italic*** or ___bold and italic___ <br>
-This is <strong>bold</strong> text using HTML syntax. <br>
+<strong>bold</strong> and <em>italic</em> text using HTML syntax.
 
-~~This is strikethrough text.~~
+~~This is strikethrough text.~~ <br>
+<del>Strikethrough text using HTML.</del> 
 ```
 
 
@@ -89,6 +91,7 @@ This is <strong>bold</strong> text using HTML syntax. <br>
   - Section 2
     - Paragraph 2
 ```
+
 
 ## ToDo list   
 - [ ] Job
@@ -150,6 +153,7 @@ This is <strong>bold</strong> text using HTML syntax. <br>
 | Row 2 Col 1  | Row 2 Col 2    | Row 2 Col 3   |
 ```
 
+
 ## Block Quote   
 > This line shows the _block quote_.  
 
@@ -207,7 +211,6 @@ This is an example of `Inline Code`.
 This is an example of `Inline Code`.
 ```
 
-
 ### Filepath   
 Here is the `/path/to/the/file.extend`{: .filepath}.
 
@@ -247,7 +250,6 @@ without syntax highlight and line number.
 {: .nolineno }
 ````
 
-
 ### Specific Language
 Using ```` ```{language} ```` you will get a code block with syntax highlight:
 
@@ -269,7 +271,6 @@ else:
 ```
 ````
 
-
 ### Specific filename
 ```sass
 @import
@@ -287,7 +288,6 @@ else:
 ```
 {: file='_sass/jekyll-theme-chirpy.scss'}
 ````
-
 
 ### Liquid Codes   
 ````markdown
@@ -373,6 +373,7 @@ We can reference the equation as \eqref{eq:series}.
 ```{% endraw %}
 ````
 
+
 ## Images   
 ![Sherlock_MindPalace](/assets/favicons/web-app-manifest-512x512.png){: .shadow }
 _Sherlock - MindPalace_
@@ -390,6 +391,7 @@ _Sherlock - MindPalace_
 ![Sherlock_MindPalace](assets/favicons/web-app-manifest-512x512.png){: .left }
 ![Sherlock_MindPalace](assets/favicons/web-app-manifest-512x512.png){: .right } -->
 ```
+
 
 ## Video
 
@@ -441,6 +443,7 @@ You can also specify additional attributes for the embedded video file. Here is 
 | [https://www.**youtube**.com/watch?v=**PsP2vsy_8ms**](https://www.youtube.com/watch?v=PsP2vsy_8ms)    | `youtube`        | `PsP2vsy_8ms`  |
 | [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211)            | `twitch`         | `1634779211`   |
 
+
 ````markdown
 {% raw %}
 {% include embed/youtube.html id='PsP2vsy_8ms' %}
@@ -451,6 +454,7 @@ You can also specify additional attributes for the embedded video file. Here is 
 | [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211)            | `twitch`         | `1634779211`   |
 {% endraw %}
 ````
+
 
 ## Footnotes
 

@@ -11,11 +11,11 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
+  gallery: Gallery
   blog: Blog
   archives: Timeline
   categories: Categories
   tags: Tags
-  gallery: Gallery
   profile: Profile
 
 # the text displayed in the search bar & search results
