@@ -8,7 +8,8 @@ toc: true
 ---
 
 <details open>
-    <summary><span style="font-size: 1.5em; font-weight: normal; color: #f0f0f0e5">Table of Contents</span></summary>
+    <summary><span style="font-size: 1.5em; font-weight: normal;">Table of Contents</span></summary>
+    <!-- <summary><span style="font-size: 1.5em; font-weight: normal; color: #f0f0f0e5">Table of Contents</span></summary> -->
     <ul style="margin: 0;">
         <li><a href="#test-gallery-1">Test Gallery 1</a></li>
         <li><a href="#test-gallery-2">Test Gallery 2</a></li>
@@ -111,29 +112,30 @@ _Vicky_
 
 Have questions, feedback, or want to connect? Fill out the form below and I'll get back to you soon!
 
-<p style="font-size: 0.9em; color: #888;">Add your Instagram handle below if you'd like to be contacted through DM.</p>
+<p class="form-hint">Add your Instagram handle below if you'd like to be contacted through DM.</p>
 
-<form action="https://formspree.io/f/your-form-id" method="POST" style="max-width: 400px; margin: 2em 0;">
-    <label for="name">Name</label><br>
-    <input type="text" id="name" name="name" required style="width: 100%; margin-bottom: 1em; border-radius: 6px; border: 1px solid #ccc; padding: 0.5em;"><br>
-    <label for="email">Email</label><br>
-    <input type="email" id="email" name="_replyto" required style="width: 100%; margin-bottom: 1em; border-radius: 6px; border: 1px solid #ccc; padding: 0.5em;"><br>
-    <label for="instagram">Instagram</label><br>
-    <input type="text" id="instagram" name="instagram" placeholder="@your_username" style="width: 100%; margin-bottom: 1em; border-radius: 6px; border: 1px solid #ccc; padding: 0.5em;"><br>
-    <label for="services">What service are you interested in?</label><br>
-    <select id="services" name="services" style="width: 100%; margin-bottom: 1em; border-radius: 6px; border: 1px solid #ccc; padding: 0.5em;">
-        <option value="" selected disabled>-- Optional: Select a service --</option>
-        <option value="photography">Photography</option>
-        <option value="videography">Videography</option>
-        <option value="editing">Editing</option>
-        <option value="other">Other</option>
-        <option value="none">I'm not sure yet...</option>
-    </select><br>
-    <label for="message">Tell me more!</label><br>
-    <textarea id="message" name="message" rows="5" required placeholder="Feel free to give me a general idea here on what you're looking for: potential location, dates available, price range, or any other questions you have!" style="width: 100%; margin-bottom: 1em; border-radius: 6px; border: 1px solid #ccc; padding: 0.5em;"></textarea><br>
-    <button type="submit" style="background: linear-gradient(90deg, #61d1df 0%, #4f8cff 100%); color: #fff; border: none; border-radius: 6px; padding: 0.7em 2em; font-size: 1em; font-weight: 600; cursor: pointer; box-shadow: 0 2px 8px rgba(79,140,255,0.15); transition: background 0.2s, transform 0.2s, box-shadow 0.2s;"
-        onmouseover="this.style.background='linear-gradient(90deg, #4f8cff 0%, #61d1df 100%)'; this.style.transform='translateY(-2px) scale(1.03)'; this.style.boxShadow='0 4px 16px rgba(56,232,255,0.25)';"
-        onmouseout="this.style.background='linear-gradient(90deg, #61d1df 0%, #4f8cff 100%)'; this.style.transform='none'; this.style.boxShadow='0 2px 8px rgba(79,140,255,0.15)';">
-        Submit
-    </button>
+<form action="https://formspree.io/f/your-form-id" method="POST" class="contact-form">
+  <label for="name">Name</label><br>
+  <input type="text" id="name" name="name" required><br>
+
+  <label for="email">Email</label><br>
+  <input type="email" id="email" name="_replyto" required><br>
+
+  <label for="instagram">Instagram</label><br>
+  <input type="text" id="instagram" name="instagram" placeholder="@your_username"><br>
+
+  <label for="services">What service are you interested in?</label><br>
+  <select id="services" name="services">
+    <option value="" selected disabled>-- Optional: Select a service --</option>
+    <option value="photography">Photography</option>
+    <option value="videography">Videography</option>
+    <option value="editing">Editing</option>
+    <option value="other">Other</option>
+    <option value="none">I'm not sure yet...</option>
+  </select><br>
+
+  <label for="message">Tell me more!</label><br>
+  <textarea id="message" name="message" rows="5" required placeholder="Feel free to give me a general idea here..."></textarea><br>
+
+  <button type="submit">Submit</button>
 </form>
