@@ -1,41 +1,41 @@
 #  The contact options.
 
-- type: github-repo
-  icon: 'fab fa-github'
-  url: 'https://github.com/khoapham1002?tab=repositories'
-
-- type: linkedin
-  icon: 'fab fa-linkedin'
-  url:  'https://www.linkedin.com/in/kdpham1002/'
+- type: website
+  icon: 'fa-solid fa-user' # icons powered by <https://fontawesome.com/>
+  url: 'https://khoapham1002.github.io/'
 
 - type: resume
   icon: 'fa-solid fa-file-lines'
   url: 'https://drive.google.com/file/d/11vmYaw8fkSDfkxlwXCtYpTNWSdpLNRvd/view?usp=sharing'
 
-- type: website
-  icon: 'fa-solid fa-user' # icons powered by <https://fontawesome.com/>
-  url: 'https://khoapham1002.github.io/'
+- type: linkedin
+  icon: 'fab fa-linkedin'
+  url:  'https://www.linkedin.com/in/kdpham1002/'
+
+- type: github-repo
+  icon: 'fab fa-github'
+  url: 'https://github.com/khoapham1002?tab=repositories'
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
   url: 'mailto:teenee3051@icloud.com'
 
-- type: youtube
-  icon: 'fab fa-youtube'
-  url: 'https://www.youtube.com/playlist?list=PLpvLImcc_it-rOI-5Eyd2wVEiP8ijqvHb'
-
-- type: dance
-  icon: 'fa-solid fa-film'
-  url: 'https://www.instagram.com/teenee_archives/reels/'
-
-- type: instagram
-  icon: 'fab fa-instagram'
-  url: 'https://www.instagram.com/teenee_archives'
-
 - type: vsco
   icon: 'fa-solid fa-camera-retro'
   url: 'https://vsco.co/teenee3051/gallery'
+
+- type: instagram
+  icon: 'fab fa-instagram'
+  url: 'https://www.instagram.com/koa_archives'
+
+- type: dance
+  icon: 'fa-solid fa-film'
+  url: 'https://www.instagram.com/koa_archives/reels/'
+
+- type: youtube
+  icon: 'fab fa-youtube'
+  url: 'https://www.youtube.com/playlist?list=PLpvLImcc_it-rOI-5Eyd2wVEiP8ijqvHb'
 
 
 # Uncomment and complete the url below to enable more contact options
