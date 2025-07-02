@@ -5,7 +5,7 @@ layout: compress
 {% assign favicon_path = "/assets/favicons" | relative_url %}
 
 {
-  "name": "{{ site.title }}",
+  "name": "KoaPam's MindPalace",
   "short_name": "MindPalace",
   "description": "{{ site.description }}",
   "icons": [
