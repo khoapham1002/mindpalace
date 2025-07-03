@@ -17,8 +17,8 @@ toc: true
     </ul>
 </details>
 
-> 💁‍♀️ Check out more Inspos on [VSCO](https://vsco.co/teenee3051/gallery)! 📸   
-> 💁‍♂️ Check out more Reels on [Instagram](https://www.instagram.com/teenee_archives/reels)! 🎞️
+> 💁‍♀️ Check out more **Inspos** on [VSCO](https://vsco.co/teenee3051/gallery)! 📸   
+> 💁‍♂️ Check out more **Reels** on [Instagram](https://www.instagram.com/teenee_archives/reels)! 🎞️
 
 * * *
 
@@ -108,7 +108,7 @@ _Vicky_
 
 <hr>
 
-## 📬 Let's connect!
+## Let's connect! 📬
 
 Have questions, feedback, or want to connect? Fill out the form below and I'll get back to you soon!
 

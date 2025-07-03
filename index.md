@@ -1,8 +1,15 @@
 ---
 layout: home
 icon: fas fa-home
-title: About Me
+title: Welcome to my MindPalace! 💭🏰
 ---
+<!-- ## 🚨 **Heads Up** -->
+
+> 🤔 This site is my **brain dump**, my **digital archive**, my **creative journal**! ✍️
+{: .prompt-info }
+
+> 🧑‍💻 Looking for the ***serious me***...? 🤓 Head over to my **[resume website](https://khoapham1002.github.io/)**! 💼
+{: .prompt-tip }
 
 <div class="custom-table-container">
   <table class="custom-table">
@@ -28,15 +35,6 @@ title: About Me
 
 * * *
 
-<!-- ## 🚨 **Heads Up** -->
-
-> 🤔 This site is my **brain dump**, my **digital archive**, my **creative journal**! ✍️
-{: .prompt-info }
-
-> 🧑‍💻 Looking for the **serious me**...? 🤓 Head over to my **[resume website](https://khoapham1002.github.io/)**! 💼
-{: .prompt-tip }
-
-
 ![sherlock-meme1](/assets/img/sherlock-get-out-mindpalace-meme.gif){: width="600" height="200" }{: .shadow }
 _Sherlock S02E02_
 
@@ -59,6 +57,8 @@ _How I Met Your Mother S09E17_
 
 *A song that touched...*
 {% include embed/youtube.html id='OcCkAG_LO9Y' %}
+
+{% include embed/youtube.html id='utWj1opZ0TQ' %}
 
 *A melody that lingered...*
 {% include embed/youtube.html id='2ZshWwX1884' %}
