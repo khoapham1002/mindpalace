@@ -1,7 +1,25 @@
 #  The contact options.
 
+- type: vsco
+  icon: 'fa-solid fa-camera-retro'
+  url: 'https://vsco.co/teenee3051/gallery'
+
+- type: instagram
+  icon: 'fab fa-instagram'
+  url: 'https://www.instagram.com/koa_archives'
+
+- type: dance
+  icon: 'fa-solid fa-film'
+  url: 'https://www.instagram.com/koa_archives/reels/'
+
+- type: youtube
+  icon: 'fab fa-youtube'
+  url: 'https://www.youtube.com/playlist?list=PLpvLImcc_it-rOI-5Eyd2wVEiP8ijqvHb'
+
+
+# icons powered by <https://fontawesome.com/>
 - type: website
-  icon: 'fa-solid fa-user' # icons powered by <https://fontawesome.com/>
+  icon: 'fa-solid fa-user'
   url: 'https://khoapham1002.github.io/'
 
 - type: resume
@@ -21,21 +39,13 @@
   noblank: true # open link in current tab
   url: 'mailto:teenee3051@icloud.com'
 
-- type: vsco
-  icon: 'fa-solid fa-camera-retro'
-  url: 'https://vsco.co/teenee3051/gallery'
 
-- type: instagram
-  icon: 'fab fa-instagram'
-  url: 'https://www.instagram.com/koa_archives'
 
-- type: dance
-  icon: 'fa-solid fa-film'
-  url: 'https://www.instagram.com/koa_archives/reels/'
 
-- type: youtube
-  icon: 'fab fa-youtube'
-  url: 'https://www.youtube.com/playlist?list=PLpvLImcc_it-rOI-5Eyd2wVEiP8ijqvHb'
+
+
+
+
 
 
 # Uncomment and complete the url below to enable more contact options
