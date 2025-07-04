@@ -50,8 +50,8 @@ _Cat Developer_
 
 ## Test Gallery 2
 
-![NYC21](/assets/img/NYC21_00244.JPG){: w="300" h="300" .shadow }
-_NYC 2021_
+<!-- ![NYC21](/assets/img/NYC21_00244.JPG){: w="300" h="300" .shadow }
+_NYC 2021_ -->
 
 <div class="photo-grid" data-aos="fade-up">
     <img src="/assets/img/doe-patronus.jpeg" title="Doe Patronus" alt="Doe Patronus" loading="lazy">
