@@ -1,7 +1,7 @@
 ---
 layout: home
 icon: fas fa-home
-title: Welcome to my MindPalace! 💭🏰
+title: About Me 💭🏰
 ---
 <!-- ## 🚨 **Heads Up** -->
 
@@ -54,6 +54,8 @@ _How I Met Your Mother S09E17_
 
 *A dance that inspired...*
 {% include embed/youtube.html id='vbK7Ocl3EbI' %}
+
+{% include embed/youtube.html id='cQ5WGWTsWek' %}
 
 *A song that touched...*
 {% include embed/youtube.html id='OcCkAG_LO9Y' %}
