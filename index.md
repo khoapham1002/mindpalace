@@ -3,6 +3,8 @@ layout: home
 icon: fas fa-home
 title: About Me 💭🏰
 ---
+
+<!-- # Welcome to my MindPalace! 💭🏰 -->
 <!-- ## 🚨 **Heads Up** -->
 
 > 🤔 This site is my **brain dump**, my **digital archive**, my **creative journal**! ✍️
