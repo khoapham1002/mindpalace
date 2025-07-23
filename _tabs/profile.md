@@ -27,6 +27,28 @@ toc: true
 <!-- > 🧑‍💻 Remove `/mindpalace...` to see my **[resume website](https://khoapham1002.github.io/)**! 💼
 {: .prompt-info } -->
 
+<div class="custom-table-container">
+  <table class="custom-table">
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/khoapham1002">GitHub</a></td>
+        <td><a href="https://www.linkedin.com/in/kdpham1002/">LinkedIn</a></td>
+        <td><a href="https://vsco.co/teenee3051/gallery">VSCO/Inspo</a></td>
+      </tr>
+      <tr>
+        <td><a href="https://public.tableau.com/app/profile/kdpham.umass/vizzes">Tableau</a></td>
+        <td><a href="https://khoapham1002.github.io/mindpalace/categories/">MindPalace</a></td>
+        <td><a href="https://www.instagram.com/koa_archives/">Photography</a></td>
+      </tr>
+      <tr>
+        <td><a href="https://www.kaggle.com/teenee3051">Kaggle</a></td>
+        <td><a href="https://isenbergmarketing.wordpress.com/2023/06/12/netflix-and-learn/?fbclid=IwZXh0bgNhZW0CMTEAAR1hEqlSY2sZx2p6ysM-EFkoQkFC4r9FBFxAKLc-z-wHuv3fW_YzuziMpSc_aem_v81C0HMR5vpAzpT02UQxqA">First Blog</a></td>
+        <td><a href="https://www.instagram.com/koa_archives/reels/">Dance/Filming</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 * * *
 
 ### 👋 Hi there, I'm Khoa Pham!
