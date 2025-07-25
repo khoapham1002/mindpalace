@@ -26,6 +26,32 @@ comments: true
 - Sell assets
 
 
+### Types of Life Insurance
+> Link to article: [Types of Life Insurance](https://www.ratehub.ca/insurance/life/types-of-life-insurance)
+
+**Terms and Concepts:**
+- How Insurance Works (in General)
+- Premiums
+- Beneficiaries
+- Death Benefits
+- Term Life Insurance
+- Medical testing
+- Permanent Life Insurance
+- Renewable Term Insurance
+- Convertible Term Insurance
+- Joint Life Insurance
+- Combined Insurance Policy
+- Term-to-100 Life Insurance (T100)
+- Whole Life Insurance
+- Cash Surrender Value
+- Non-Participating vs Participating Insurance Policies
+- Policy Dividends
+- Universal Life Insurance
+- Guaranteed Life Insurance
+- No-Medical Life Insurance
+- Mortgage Life Insurance
+
+
 ### Long-Term Care Insurance
 > Link to article: [Mechanics and Basics of Long-Term Care Rate Increases](https://www.soa.org/globalassets/assets/Library/Newsletters/Long-Term-Care/2014/august/ltc-2014-iss36-gordon.pdf)
 
@@ -62,32 +88,6 @@ In addition, the interest rate assumptions for these products were set before th
 Lastly, morbidity assumptions used when originally pricing LTC insurance was based on general population data. Now we have more accurate data based on the insured population. This new, more accurate data shows that the morbidity rates used for pricing (based on general population data) were too high in early years and too low in later years.
 
 
-### Types of Life Insurance
-> Link to article: [Types of Life Insurance](https://www.ratehub.ca/insurance/life/types-of-life-insurance)
-
-**Terms and Concepts:**
-- How Insurance Works (in General)
-- Premiums
-- Beneficiaries
-- Death Benefits
-- Term Life Insurance
-- Medical testing
-- Permanent Life Insurance
-- Renewable Term Insurance
-- Convertible Term Insurance
-- Joint Life Insurance
-- Combined Insurance Policy
-- Term-to-100 Life Insurance (T100)
-- Whole Life Insurance
-- Cash Surrender Value
-- Non-Participating vs Participating Insurance Policies
-- Policy Dividends
-- Universal Life Insurance
-- Guaranteed Life Insurance
-- No-Medical Life Insurance
-- Mortgage Life Insurance
-
-
 ### IBNR Reserve
 
 An IBNR Reserve ensures that the insurance company has enough money to cover incurred claims that have not yet been reported.
@@ -114,12 +114,11 @@ The biggest advantage to using a predictive model would be the potential increas
 The predictive model method would also allow insurers to determine an IBNR for any subset of a group more easily and accurately.However, there are many other considerations when deciding whether or not a predictive model for IBNR calculation is feasble. The video and article goes into those thoughts.
 
 
-### Actuarial Tables
-
 ### Insurance Deductibles
 
-### Financial Statements
+### Actuarial Tables
 
+### Financial Statements
 - Balance Sheets
 - Income Statements
 
