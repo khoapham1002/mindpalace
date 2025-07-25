@@ -118,7 +118,10 @@ The predictive model method would also allow insurers to determine an IBNR for a
 
 ### Insurance Deductibles
 
-### Financial Statements (Balance Sheets and Income Statements)
+### Financial Statements
+
+- Balance Sheets
+- Income Statements
 
 
 
