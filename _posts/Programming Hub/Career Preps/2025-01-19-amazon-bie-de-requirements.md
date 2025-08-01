@@ -4,7 +4,7 @@ title: Amazon BIE/DE Description Requirements
 date: 2025-01-19 13:40 -0800
 description: Understand Amazon interview formats
 author: khoa_pham
-categories: [Programming Hub, Interview Preps]
+categories: [Programming Hub, Career Preps]
 pin: false
 math: true
 mermaid: true

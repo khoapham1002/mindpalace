@@ -4,7 +4,7 @@ title: Understand Actuarial Analyst
 date: 2025-07-23 15:58 -0700
 description: Actuary and Insurance Concepts Recap
 author: khoa_pham
-categories: [Programming Hub, Career Tracks]
+categories: [Programming Hub, Career Preps]
 pin: false
 math: true
 mermaid: true

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Amazon SQL Practice Questions
-date: 2025-01-20 13:30 -0800
-description: Practice Amazon SQL technical questions
+title: Amazon DS-SQL Practice Questions
+date: 2025-01-20 14:30 -0800
+description: Practice Amazon Data Science SQL technical questions
 author: khoa_pham
-categories: [Programming Hub, Interview Preps]
+categories: [Programming Hub, Career Preps]
 pin: false
 math: true
 mermaid: true

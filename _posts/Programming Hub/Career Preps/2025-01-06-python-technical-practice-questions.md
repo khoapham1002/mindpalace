@@ -4,7 +4,7 @@ title: Python Technical Practice Questions
 date: 2025-01-06 21:13 -0800
 description: Interview questions for Python
 author: khoa_pham
-categories: [Programming Hub, Interview Preps]
+categories: [Programming Hub, Career Preps]
 pin: false
 math: true
 mermaid: true

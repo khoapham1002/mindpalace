@@ -4,7 +4,7 @@ title: Data Science for Business
 date: 2025-02-22 05:47 -0800
 description: MGMT 657 Course Notes
 author: khoa_pham
-categories: [Programming Hub, Course Notes]
+categories: [Programming Hub, Skill Tracks]
 pin: false
 math: true
 mermaid: true

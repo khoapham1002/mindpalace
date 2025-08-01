@@ -4,7 +4,7 @@ title: Citizens Behavioral Practice Questions
 date: 2025-01-18 19:21 -0800
 description: Citizens Behavioral Interview Questions & Categorized Responses
 author: khoa_pham
-categories: [Programming Hub, Interview Preps]
+categories: [Programming Hub, Career Preps]
 pin: false
 math: true
 mermaid: true

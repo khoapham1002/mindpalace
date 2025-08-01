@@ -4,7 +4,7 @@ title: IBM Mock Coding Interview
 date: 2025-02-12 15:14 -0800
 description: IBM mock coding Hackerrank OA
 author: khoa_pham
-categories: [Programming Hub, Interview Preps]
+categories: [Programming Hub, Career Preps]
 pin: false
 math: true
 mermaid: true
