@@ -18,26 +18,26 @@
 
 
 # icons powered by <https://fontawesome.com/>
-- type: website
-  icon: 'fa-solid fa-user'
-  url: 'https://khoapham1002.github.io/'
+# - type: website
+#   icon: 'fa-solid fa-user'
+#   url: 'https://khoapham1002.github.io/'
 
-- type: resume
-  icon: 'fa-solid fa-file-lines'
-  url: 'https://drive.google.com/file/d/11vmYaw8fkSDfkxlwXCtYpTNWSdpLNRvd/view?usp=sharing'
+# - type: resume
+#   icon: 'fa-solid fa-file-lines'
+#   url: 'https://drive.google.com/file/d/11vmYaw8fkSDfkxlwXCtYpTNWSdpLNRvd/view?usp=sharing'
 
-- type: github-repo
-  icon: 'fab fa-github'
-  url: 'https://github.com/khoapham1002?tab=repositories'
+# - type: github-repo
+#   icon: 'fab fa-github'
+#   url: 'https://github.com/khoapham1002?tab=repositories'
 
-- type: linkedin
-  icon: 'fab fa-linkedin'
-  url:  'https://www.linkedin.com/in/kdpham1002/'
+# - type: linkedin
+#   icon: 'fab fa-linkedin'
+#   url:  'https://www.linkedin.com/in/kdpham1002/'
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-  url: 'mailto:teenee3051@icloud.com'
+# - type: email
+#   icon: "fas fa-envelope"
+#   noblank: true # open link in current tab
+#   url: 'mailto:teenee3051@icloud.com'
 
 
 
