@@ -17,7 +17,7 @@ toc: true
 </details> -->
 
 💁‍♀️ Check out more **Inspos** on [VSCO](https://vsco.co/teenee3051/gallery)! 📸   
-💁‍♂️ Check out more **Reels** on [Instagram](https://www.instagram.com/teenee_archives/reels)! 🎞️
+💁‍♂️ Check out more **Reels** on [Instagram](https://www.instagram.com/koa_archives/reels)! 🎞️
 
 * * *
 
