@@ -27,6 +27,9 @@ comments: true
 #### All Orders (Inner Joins)
 **Q1:** Write a query to find all orders placed by customers who live in New York.
 
+<details markdown="1" style="padding: 0px 10px;">
+<summary>Click to see answer</summary>
+
 ```sql
 SELECT o.order_id, o.customer_id, o.order_date, c.name
 FROM Orders o INNER JOIN Customers c
@@ -35,9 +38,14 @@ WHERE c.city = 'New York';
 ```
 
 > The INNER JOIN ensures only rows with matching customer_id in both tables are included.
+</details>
+
 
 #### All Products (Left Joins)
 **Q2:** List all products, including those that have not been sold, with their total sales quantities.
+
+<details markdown="1" style="padding: 0px 10px;">
+<summary>Click to see answer</summary>
 
 ```sql
 SELECT p.product_id, p.product_name,
@@ -49,9 +57,14 @@ GROUP BY p.product_id, p.product_name;
 
 > The LEFT JOIN includes all products, even those without matching sales.
 > COALESCE handles NULL values by replacing them with 0 for unsold products.
+</details>
+
 
 #### All Suppliers & Products (Full Outer Join)
 **Q3:** Combine data from Suppliers and Products, showing all products and suppliers, even if there are no matches.
+
+<details markdown="1" style="padding: 0px 10px;">
+<summary>Click to see answer</summary>
 
 ```sql
 SELECT 
@@ -60,9 +73,13 @@ ON s.supplier_id = p.supplier_id;
 ```
 
 > The FULL OUTER JOIN ensures inclusion of all rows from both tables, with NULL where no matches exist.
+</details>
 
 #### All Employees (Self Join)
 **Q4:** List all employees and their managers.
+
+<details markdown="1" style="padding: 0px 10px;">
+<summary>Click to see answer</summary>
 
 ```sql
 SELECT e.name AS employee, m.name AS manager
@@ -71,6 +88,8 @@ ON e.manager_id = m.employee_id;
 ```
 
 > The LEFT JOIN ensures that even employees without managers (e.g., CEO) are included.
+</details>
+
 
 #### Join with Aggregation
 
