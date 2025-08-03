@@ -201,3 +201,23 @@
   color: #6d6c6c;
   margin-top: 1em;
 }
+
+
+/* === Custom styles for interactive checkboxes === */
+.interactive-checklist input[type="checkbox"] {
+    pointer-events: auto;
+}
+
+details {
+    margin: 0;
+    padding: 0;
+}
+
+details summary {
+    margin: 0;
+    padding: 0;
+}
+
+details[open] {
+    padding-bottom: 0;
+}
