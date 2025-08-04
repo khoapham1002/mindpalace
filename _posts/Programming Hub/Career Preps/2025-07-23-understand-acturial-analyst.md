@@ -52,6 +52,32 @@ comments: true
 - Mortgage Life Insurance
 
 
+### IBNR Reserve
+
+An IBNR Reserve ensures that the insurance company has enough money to cover incurred claims that have not yet been reported.
+
+> Link to article: [Using member-level predictive models to calculate IBNR reserves](https://www.theactuarymagazine.org/anticipating-events/)
+
+**Terms and Concepts:**
+- Predictive Models
+- Incurred But Not Reported (IBNR) Reserves
+- Completion Factor IBNR Calculation Method
+- Projection IBNR Calculation Method
+- High Frequency, Low Severity Claims
+- Pools, Risks, Groups
+- Leading Indicators
+
+Traditionally, insurance companies use an IBNR calculation in agreggate, meaning there isn’t an IBNR reserve attributable to each insured member. Two common methods are the completion factor method and the projection method.
+
+These methods allow for a fairly easy IBNR calculation, but all risks (or members, or insureds) are treated exactly the same. However, as we know, that’s not a realistic assumption. Every member is a bit different and therefore we would expect different claim amounts and frequencies from them in the future.
+
+The article speculates that a predictive model may be able to more accurately estimate the future claims (and thus, an IBNR), and it could do this at a member level (rather than in aggregate). Then, an insurance company could sum up all the individual member-level estimates to determine the total IBNR necessary for the group.
+
+The biggest advantage to using a predictive model would be the potential increase in accuracy. The case study in the article suggests that an increase in accuracy would, in fact, be a benefit.
+
+The predictive model method would also allow insurers to determine an IBNR for any subset of a group more easily and accurately.However, there are many other considerations when deciding whether or not a predictive model for IBNR calculation is feasble. The video and article goes into those thoughts.
+
+
 ### Long-Term Care Insurance
 > Link to article: [Mechanics and Basics of Long-Term Care Rate Increases](https://www.soa.org/globalassets/assets/Library/Newsletters/Long-Term-Care/2014/august/ltc-2014-iss36-gordon.pdf)
 
@@ -86,32 +112,6 @@ In particular, experience has shown that the persistency assumptions made when o
 In addition, the interest rate assumptions for these products were set before the 2007/2008 economic recession. Interest rates after the recession were much lower than assumed. This is another reason for the rate increases.
 
 Lastly, morbidity assumptions used when originally pricing LTC insurance was based on general population data. Now we have more accurate data based on the insured population. This new, more accurate data shows that the morbidity rates used for pricing (based on general population data) were too high in early years and too low in later years.
-
-
-### IBNR Reserve
-
-An IBNR Reserve ensures that the insurance company has enough money to cover incurred claims that have not yet been reported.
-
-> Link to article: [Using member-level predictive models to calculate IBNR reserves](https://www.theactuarymagazine.org/anticipating-events/)
-
-**Terms and Concepts:**
-- Predictive Models
-- Incurred But Not Reported (IBNR) Reserves
-- Completion Factor IBNR Calculation Method
-- Projection IBNR Calculation Method
-- High Frequency, Low Severity Claims
-- Pools, Risks, Groups
-- Leading Indicators
-
-Traditionally, insurance companies use an IBNR calculation in agreggate, meaning there isn’t an IBNR reserve attributable to each insured member. Two common methods are the completion factor method and the projection method.
-
-These methods allow for a fairly easy IBNR calculation, but all risks (or members, or insureds) are treated exactly the same. However, as we know, that’s not a realistic assumption. Every member is a bit different and therefore we would expect different claim amounts and frequencies from them in the future.
-
-The article speculates that a predictive model may be able to more accurately estimate the future claims (and thus, an IBNR), and it could do this at a member level (rather than in aggregate). Then, an insurance company could sum up all the individual member-level estimates to determine the total IBNR necessary for the group.
-
-The biggest advantage to using a predictive model would be the potential increase in accuracy. The case study in the article suggests that an increase in accuracy would, in fact, be a benefit.
-
-The predictive model method would also allow insurers to determine an IBNR for any subset of a group more easily and accurately.However, there are many other considerations when deciding whether or not a predictive model for IBNR calculation is feasble. The video and article goes into those thoughts.
 
 
 ### Insurance Deductibles
