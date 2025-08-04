@@ -16,86 +16,103 @@ comments: true
 > Link to [Diet Menu 🍽️😋](https://khoapham1002.github.io/mindpalace/posts/diet-menu/)
 
 ## My Schedule
-- [ ] 6:00 - 7:00: 1st Meal (1hr)
-    - [ ] Coffee
-    - [ ] Yoghurt Smoothie 
-    - [ ] Vegetable Soup
-    - [ ] Shrimp & Dumplings
-    - [ ] Eggs & Bacon
-- [ ] 7:00 - 10:00: Gym (3hr)
-- [ ] 10:00 - 13:00: Study (3hr)
-    - [ ] Practice Music (45min)
-    - [ ] Practice Korean (45min)
-    - [ ] MindPalace Blog (45min)
-    - [ ] Photography/Filming (45min)
-- [ ] 13:00 - 14:00: 2nd Meal (1hr)
-- [ ] 14:00 - 17:00: Study (3hr)
-- [ ] 17:00 - 18:00: 3rd Meal (1hr)
-- [ ] 18:00 - 22:00: Study (4hr)
-    - [ ] Apply Jobs (2hr)
-- [ ] 22:00 - 6:00: Sleep (8hr)
+
+<div class="interactive-checklist" markdown="1">
+
+<input type="checkbox"> 6:00 - 7:00: Meal 1 (1hr)   
+<input type="checkbox"> 7:00 - 10:00: Gym (3hr)   
+<input type="checkbox"> 10:00 - 13:00: Study (3hr)   
+    <input type="checkbox" style="margin-left: 20px;"> Practice Music (45min)   
+    <input type="checkbox" style="margin-left: 20px;"> Practice Korean (45min)   
+    <input type="checkbox" style="margin-left: 20px;"> MindPalace Blog (45min)   
+    <input type="checkbox" style="margin-left: 20px;"> Photography/Filming (45min)   
+<input type="checkbox"> 13:00 - 14:00: Meal 2 (1hr)   
+<input type="checkbox"> 14:00 - 17:00: Study (3hr)   
+<input type="checkbox"> 17:00 - 18:00: Meal 3 (1hr)   
+<input type="checkbox"> 18:00 - 22:00: Study (4hr)   
+    <input type="checkbox" style="margin-left: 20px;"> Apply Jobs (2hr)   
+<input type="checkbox"> 22:00 - 6:00: Sleep (8hr)   
+
+</div>
+
 
 ***
 
-## Fitness Tracker
+## **Fitness Tracker**  
 
-### Footwork
-- [ ] Jump Rope: 100
-- [ ] High-knees: 100
-- [ ] Crossed-leg Jumps: 100
-- [ ] Front Kicks: 100
+### **Push**  
+#### **Chest**  
+<div class="interactive-checklist" markdown="1">
+<input type="checkbox"> Bench Press: 20lbs x 20    
+<input type="checkbox"> Inclined Press: 20lbs x 20  
+<input type="checkbox"> Chest Fly: 40lbs x 20  
+</div>
 
-### Core & Back
-- [ ] Sit Up: 20
-- [ ] Back Extensions: 20
-- [ ] Plank: 2 min
-- [ ] Leg Raises: 15
-- [ ] Crunches: 30lbs x 15
+#### **Shoulders**  
+<div class="interactive-checklist" markdown="1">
+<input type="checkbox"> Overhead Press: 20lbs x 20  
+<input type="checkbox"> Leaning Lat Raises: 5lbs x 20  
+<input type="checkbox"> Front Delt Raises: 5lbs x 20  
+</div>
 
-
-### Push
-#### Chest
-- [ ] Bench Press: 20lbs x 20
-- [ ] Inclined Press: 20lbs x 20
-- [ ] Chest Fly: 50lbs x 20
-
-#### Shoulders
-- [ ] Overhead Press: 20lbs x 20
-- [ ] Leaning Lat Raises: 8lbs x 20
-- [ ] Front Delt Raises: 8lbs x 20
-
-#### Triceps
-- [ ] Cable Pushdowns: 30lbs x 20
-- [ ] Overhead Extensions: 12lbs x 20
-- [ ] Dips: 70lbs x 20
+#### **Triceps**  
+<div class="interactive-checklist" markdown="1">
+<input type="checkbox"> Cable Pushdowns: 20lbs x 20  
+<input type="checkbox"> Overhead Extensions: 10lbs x 20  
+<input type="checkbox"> Dips: 70lbs x 20  
+</div>
 
 
-### Pull
-#### Back
-- [ ] Machine Rows: 50lbs x 18
-- [ ] Pull Downs: 50lbs x 18
-- [ ] Pull Ups: 70lbs x 40
-- [ ] Dumbbell Rows: 15lbs x 20
+### **Pull**  
+#### **Back**  
+<div class="interactive-checklist" markdown="1">
+<input type="checkbox"> Machine Rows: 40lbs x 20  
+<input type="checkbox"> Pull Downs: 40lbs x 20  
+<input type="checkbox"> Pull Ups: 70lbs x 40  
+<input type="checkbox"> Dumbbell Rows: 15lbs x 20  
+</div>
 
-#### Biceps
-- [ ] Isolation Curls: 15lbs x 20
-- [ ] Ez Bar Curls: 20lbs x 20
-- [ ] Hammer Curls: 20lbs x 25
+#### **Biceps**  
+<div class="interactive-checklist" markdown="1">
+<input type="checkbox"> Isolation Curls: 15lbs x 20  
+<input type="checkbox"> Ez Bar Curls: 20lbs x 20  
+<input type="checkbox"> Hammer Curls: 10lbs x 20  
+</div>
 
-#### Trapezius & Rear Delt
-- [ ] Rear Delt Flies: 40lbs x 40
-- [ ] Shrugs: 40lbs x 50
+#### **Trapezius & Rear Delt**  
+<div class="interactive-checklist" markdown="1">
+<input type="checkbox"> Shrugs: 40lbs x 50  
+<input type="checkbox"> Rear Delt Flies: 40lbs x 30  
+</div>
 
 
-### Lower
-#### Quads & Calves
-- [ ] Squat: 30lbs x 20
-- [ ] Lunges: 30lbs x 20
-- [ ] Leg Press: 90lbs x 30
-- [ ] Calves Raise: 90lbs x 90
-- [ ] Leg Extensions: 40lbs x 15
+### **Lower**  
+<div class="interactive-checklist" markdown="1">
+<input type="checkbox"> Squat: 25lbs x 30  
+<input type="checkbox"> Lunges: 20lbs x 30  
+<input type="checkbox"> Leg Press: 90lbs x 30  
+<input type="checkbox"> Calves Raise: 90lbs x 120  
+<input type="checkbox"> Leg Extensions: 50lbs x 20  
+<input type="checkbox"> Hamstring Curls: 50lbs x 20  
+</div>
 
-#### Hamstrings & Glutes
-- [ ] Romanian Deadlift: 80lbs x 30
-- [ ] Hip Thrust: 40lbs x 40
-- [ ] Hamstring Curls: 40lbs x 15
+
+### **Core & Back**  
+<div class="interactive-checklist" markdown="1">
+<input type="checkbox"> Sit Up: 20  
+<input type="checkbox"> Back Extensions: 30  
+<input type="checkbox"> Plank: 3 min  
+<input type="checkbox"> Hip Thrust: 50lbs x 30  
+<input type="checkbox"> Romanian Deadlift: 80lbs x 30  
+<input type="checkbox"> Leg Raises: 10  
+<input type="checkbox"> Crunches: 30lbs x 10  
+</div>
+
+
+### **Footwork**  
+<div class="interactive-checklist" markdown="1">
+<input type="checkbox"> Jump Rope: 100  
+<input type="checkbox"> High-knees: 100  
+<input type="checkbox"> Crossed-leg Jumps: 100  
+<input type="checkbox"> Front Kicks: 100  
+</div>
