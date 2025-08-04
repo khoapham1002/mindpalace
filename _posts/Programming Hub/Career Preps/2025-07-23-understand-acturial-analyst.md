@@ -15,7 +15,7 @@ comments: true
 ## Understand Insurance Industry and Actuarial Concepts
 
 ### How Insurance Companies Make Money?
-> Policyholders pay premiums ($100) to insurance companies, then they invest and return of $130, which then use this money to cover claims and expenses ($80 + $40 = $120). The remaining $10 is profit.
+> Policyholders pay premiums (\$100) to insurance companies, then they invest and return of \$130, which then use this money to cover claims and expenses (\$80 + \$40 = \$120). The remaining \$10 is profit.
 
 **Areas Insurance Companies Must Pay:**
 - Claims – Paid when a policyholder is owed payment (e.g., car accident, health issues)
