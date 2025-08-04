@@ -4,9 +4,9 @@
   icon: 'fa-solid fa-camera-retro'
   url: 'https://vsco.co/teenee3051/gallery'
 
-- type: instagram
-  icon: 'fab fa-instagram'
-  url: 'https://www.instagram.com/koa_archives'
+# - type: instagram
+#   icon: 'fab fa-instagram'
+#   url: 'https://www.instagram.com/koa_archives/'
 
 - type: dance
   icon: 'fa-solid fa-film'
@@ -18,9 +18,9 @@
 
 
 # icons powered by <https://fontawesome.com/>
-# - type: website
-#   icon: 'fa-solid fa-user'
-#   url: 'https://khoapham1002.github.io/'
+- type: website
+  icon: 'fa-solid fa-user'
+  url: 'https://khoapham1002.github.io/'
 
 # - type: resume
 #   icon: 'fa-solid fa-file-lines'
