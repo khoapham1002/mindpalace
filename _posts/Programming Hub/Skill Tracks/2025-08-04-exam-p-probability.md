@@ -15,4 +15,14 @@ comments: true
 
 ## General Probability Concepts
 
-### Sets, Venn Diagrams, Events, and Sample Spaces
+### 1) Sets, Venn Diagrams, Events, and Sample Spaces
+- Mutually exclusive (disjoint) vs Non-mutually exclusive (no overlap)
+- Union, intersection, and complement of events
+- Addition and multiplication rules for probabilities
+- Independent and mutually exclusive events
+    - Independent events do not affect each other's probabilities
+        - P(A and B) = P(A) * P(B)
+    - Mutually exclusive events cannot occur simultaneously
+        - P(A or B) = P(A) + P(B)
+- Conditional probability
+    - P(A | B) = P(A and B) / P(B)
