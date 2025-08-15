@@ -150,7 +150,7 @@ Contact Info:
 
 ---
 
-#### **[Pharmaceutical Market Share & Pricing Analysis](https://github.com/khoapham1002/Vertex-Pharma-OA_Market-Analysis/blob/main/USMA_Coop_Exercise.ipynb)** <br> Vertex Pharmaceutical OA \| _Spring 2025_
+#### **[Pharmaceutical Market Share & Pricing Analysis](https://github.com/khoapham1002/Vertex-Pharma-OA_Market-Analysis/blob/main/USMA_Coop_Exercise.ipynb)** <br> Vertex Pharmaceutical OA \| _Spring 2023_
 *Technology: Excel (Pivot Tables), Python (Pandas, Seaborn), Tableau (dashboards)*   
 - Analyzed US pharma sales data to assess market share, pricing, and revenue across regions and therapeutic areas; visualized trends to distinguish volume-driven vs. premium-priced drugs.
 - Delivered insights and recommendations on pricing strategy and affordability, supporting market access decisions based on therapeutic value.
