@@ -132,8 +132,8 @@ Have questions, feedback, or want to connect? Fill out the form below and I'll g
     <option value="photography">Photography</option>
     <option value="videography">Videography</option>
     <option value="editing">Editing</option>
-    <option value="other">Other</option>
     <option value="none">I'm not sure yet...</option>
+    <!-- <option value="other">Other</option> -->
   </select><br>
 
   <label for="message">Tell me more!</label><br>
