@@ -54,8 +54,16 @@ _How I Met Your Mother S09E17_
 *A romance in disguise...*    
 {% include embed/youtube.html id='_epl4M8A0nU' %}
 
-*A dance that moved...*    
+*A dance that resonated...*    
 {% include embed/youtube.html id='vbK7Ocl3EbI' %}
+
+
+*A dance that moved...*    
+
+> Where I met Angel...
+{% include embed/youtube.html id='6wtPMLJpKvU' %}
+
+{% include embed/youtube.html id='jzMjyNRB22I' %}
 
 {% include embed/youtube.html id='cQ5WGWTsWek' %}
 
