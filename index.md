@@ -58,6 +58,8 @@ _How I Met Your Mother S09E17_
 *A choreo that inspired...*    
 {% include embed/youtube.html id='vbK7Ocl3EbI' %}
 
+{% include embed/youtube.html id='yrHI7F5pqJM' %}
+
 
 *A note that resonated...*
 
