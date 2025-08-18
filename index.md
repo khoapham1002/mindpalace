@@ -54,7 +54,7 @@ _How I Met Your Mother S09E17_
 *A romance in disguise...*    
 {% include embed/youtube.html id='_epl4M8A0nU' %}
 
-*A dance that resonated...*    
+*A dance that inspired...*    
 {% include embed/youtube.html id='vbK7Ocl3EbI' %}
 
 
@@ -68,29 +68,34 @@ _How I Met Your Mother S09E17_
 {% include embed/youtube.html id='cQ5WGWTsWek' %}
 
 
-*A song that touched...*    
-{% include embed/youtube.html id='OcCkAG_LO9Y' %}
-
-{% include embed/youtube.html id='utWj1opZ0TQ' %}
-
-
-*A melody that lingered...*   
-{% include embed/youtube.html id='2ZshWwX1884' %}
-
-{% include embed/youtube.html id='2mw3xf_bWF4' %}
-
-
-*A silence that stayed...*   
-{% include embed/youtube.html id='0sr8X34vjtk' %}
-
-
-*A person that inspired...*
+*A note that resonated...*
 
 > Jun Pham - 1:15, 3:47
 {% include embed/youtube.html id='VbSRiDoITDc' %}
 
 > Rhymastic - 1:28
 {% include embed/youtube.html id='V1Tzgdh53mA' %}
+
+> Tăng Phúc - 0:17
+{% include embed/youtube.html id='2EaxlZMEOeY' %}
+
+
+
+*A song that touched...*    
+{% include embed/youtube.html id='OcCkAG_LO9Y' %}
+
+{% include embed/youtube.html id='utWj1opZ0TQ' %}
+
+{% include embed/youtube.html id='2mw3xf_bWF4' %}
+
+*A melody that lingered...*   
+{% include embed/youtube.html id='2ZshWwX1884' %}
+
+{% include embed/youtube.html id='lfgnL0qD_hg' %}
+
+
+*A silence that stayed...*   
+{% include embed/youtube.html id='0sr8X34vjtk' %}
 
 
 * * *
