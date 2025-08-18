@@ -54,7 +54,7 @@ _How I Met Your Mother S09E17_
 *A romance in disguise...*    
 {% include embed/youtube.html id='_epl4M8A0nU' %}
 
-*A dance that inspired...*    
+*A choreo that inspired...*    
 {% include embed/youtube.html id='vbK7Ocl3EbI' %}
 
 
