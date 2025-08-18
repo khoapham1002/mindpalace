@@ -70,15 +70,17 @@ _How I Met Your Mother S09E17_
 
 *A note that resonated...*
 
-> Jun Pham - 1:15, 3:47
+> Jun Pham - 1:15 (it's cute), 3:47 (an ending 서진우 (Remember) should have)
 {% include embed/youtube.html id='VbSRiDoITDc' %}
 
 > Rhymastic - 1:28
 {% include embed/youtube.html id='V1Tzgdh53mA' %}
 
-> Tăng Phúc - 0:17
+> 0:17, 1:19 (the piano part)
 {% include embed/youtube.html id='2EaxlZMEOeY' %}
 
+> 0:38, Jun Pham - 1:55, BB Tran - 2:02
+{% include embed/youtube.html id='v9XkENdZi1o' %}
 
 
 *A song that touched...*    
