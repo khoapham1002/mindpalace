@@ -7,6 +7,9 @@ order: 2
 toc: true
 ---
 
+> Since I host this site myself, there’s a limit to how many images and media files I can upload. For more of my creative work, check out the links at the bottom of the sidebar!
+{: .prompt-warning }
+
 <!-- <details open>
     <summary><span style="font-size: 1.5em; font-weight: normal;">Table of Contents</span></summary>
     <ul style="margin: 0;">
