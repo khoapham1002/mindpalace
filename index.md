@@ -65,7 +65,7 @@ _How I Met Your Mother S09E17_
 
 *A note that resonated...*
 
-> There are lots of sad songs not because I like sad music, but because they tend to contain chromatic notes, blue notes.
+> There are lots of sad songs not because I like sad music, but because they tend to have chromatic colors, blue notes.
 {: .prompt-info }
 
 > Jun Pham - 1:15 (it's cute), 3:47 (an ending 서진우 (Remember) should have)
