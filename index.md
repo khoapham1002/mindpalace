@@ -63,6 +63,26 @@ _How I Met Your Mother S09E17_
 {% include embed/youtube.html id='yrHI7F5pqJM' %}
 
 
+*A dance that moved...*    
+
+> Where I met Angel...
+{% include embed/youtube.html id='6wtPMLJpKvU' %}
+
+{% include embed/youtube.html id='jzMjyNRB22I' %}
+
+{% include embed/youtube.html id='cQ5WGWTsWek' %}
+
+
+*A song that touched...*    
+{% include embed/youtube.html id='OcCkAG_LO9Y' %}
+
+{% include embed/youtube.html id='YETtxwHNonY' %}
+
+{% include embed/youtube.html id='utWj1opZ0TQ' %}
+
+{% include embed/youtube.html id='2mw3xf_bWF4' %}
+
+
 *A note that resonated...*
 
 > There are lots of sad songs not because I like sad music, but because they tend to have chromatic colors, blue notes.
@@ -84,25 +104,6 @@ _How I Met Your Mother S09E17_
 > *I didn't really like the remix parts but still my childhood song!*
 {% include embed/youtube.html id='SrfpvW0O6_U?si=weOW9oV27QUbAwZj&t=5' %}
 
-
-*A dance that moved...*    
-
-> Where I met Angel...
-{% include embed/youtube.html id='6wtPMLJpKvU' %}
-
-{% include embed/youtube.html id='jzMjyNRB22I' %}
-
-{% include embed/youtube.html id='cQ5WGWTsWek' %}
-
-
-*A song that touched...*    
-{% include embed/youtube.html id='OcCkAG_LO9Y' %}
-
-{% include embed/youtube.html id='YETtxwHNonY' %}
-
-{% include embed/youtube.html id='utWj1opZ0TQ' %}
-
-{% include embed/youtube.html id='2mw3xf_bWF4' %}
 
 *A melody that lingered...*   
 {% include embed/youtube.html id='2ZshWwX1884' %}
