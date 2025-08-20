@@ -97,12 +97,12 @@ _How I Met Your Mother S09E17_
 > 0:17, 1:19 (the piano part)
 {% include embed/youtube.html id='2EaxlZMEOeY' %}
 
-> 0:38, Jun Pham - 1:55, BB Tran - 2:02
-{% include embed/youtube.html id='v9XkENdZi1o' %}
-
 > Rhymastic - 2:37, 4:35 ( his backup vocal... 😘👌)   
 > *I didn't really like the remix parts but still my childhood song!*
 {% include embed/youtube.html id='SrfpvW0O6_U?si=weOW9oV27QUbAwZj&t=5' %}
+
+> 0:38, Jun Pham - 1:55, BB Tran - 2:02
+{% include embed/youtube.html id='v9XkENdZi1o' %}
 
 
 *A melody that lingered...*   
