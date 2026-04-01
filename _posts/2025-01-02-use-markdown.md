@@ -111,6 +111,29 @@ Jekyll is a static site generator that transforms plain text into static website
   - [ ] Step 3
 ```
 
+<div class="interactive-checklist" markdown="1">
+
+<input type="checkbox"> Step 1   
+<input type="checkbox"> Step 2   
+    <input type="checkbox" style="margin-left: 20px;"> Step 2.1   
+    <input type="checkbox" style="margin-left: 20px;"> Step 2.2   
+<input type="checkbox"> Step 3   
+
+</div>
+
+
+```markdown
+<div class="interactive-checklist" markdown="1">
+
+<input type="checkbox"> Step 1   
+<input type="checkbox"> Step 2   
+    <input type="checkbox" style="margin-left: 20px;"> Step 2.1   
+    <input type="checkbox" style="margin-left: 20px;"> Step 2.2   
+<input type="checkbox"> Step 3   
+
+</div>
+```
+
 
 ## Description list   
 ***Term 1***

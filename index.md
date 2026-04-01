@@ -7,10 +7,10 @@ title: About Me 💭🏰
 <!-- # Welcome to my MindPalace! 💭🏰 -->
 <!-- ## 🚨 **Heads Up** -->
 
+> My inspiration: **[A Little Wanderer](https://yuu3008.com)** by ***[Yuu](https://www.instagram.com/_yuu3008?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)***
+
 > 🤔 This site is my **brain dump**, my **digital archive**, my **creative journal**! ✍️
 {: .prompt-info }
-
-> My inspiration: **[A Little Wanderer](https://yuu3008.com)** by ***[Yuu](https://www.instagram.com/_yuu3008?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)***
 
 > 🧑‍💻 Looking for the ***serious me***...? 🤓 Head over to my **[resume website](https://khoapham1002.github.io/)**! 💼
 {: .prompt-tip }
