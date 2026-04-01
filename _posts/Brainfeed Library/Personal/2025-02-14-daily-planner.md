@@ -15,7 +15,7 @@ comments: true
 
 > Link to [Diet Menu 🍽️😋](https://khoapham1002.github.io/mindpalace/posts/diet-menu/)
 
-## My Schedule
+## **My Schedule**
 
 <div class="interactive-checklist" markdown="1">
 
@@ -41,7 +41,7 @@ comments: true
 
 ## **Fitness Tracker**  
 
-### **Push (Chest, Shoulders, Triceps)**  
+### Push (Chest, Shoulders, Triceps)  
 <div class="interactive-checklist" markdown="1">
 <input type="checkbox"> Bench Press: 45lbs x 30  
 <input type="checkbox"> Incline Press: 30lbs x 30  
@@ -53,7 +53,7 @@ comments: true
 </div>
 
 
-### **Pull (Back, Traps & Rear Delt, Biceps)**  
+### Pull (Back, Traps & Rear Delt, Biceps)  
 <div class="interactive-checklist" markdown="1">
 <input type="checkbox"> Pull Ups (Assisted): 70lbs x 40  
 <input type="checkbox"> Machine Rows: 50lbs x 30  
@@ -66,7 +66,7 @@ comments: true
 </div>
 
 
-### **Lower & Core (Glutes, Quads, Back, Core)**  
+### Lower & Core (Glutes, Quads, Back, Core)  
 <div class="interactive-checklist" markdown="1">
 <input type="checkbox"> Romanian Deadlift: 95lbs x 30  
 <input type="checkbox"> Squat: 65lbs x 30  
@@ -85,7 +85,7 @@ comments: true
 </div>
 
 
-### **Footwork**  
+### Footwork  
 <div class="interactive-checklist" markdown="1">
 <input type="checkbox"> Jump Rope: 100  
 <input type="checkbox"> High-knees: 100  

@@ -9,6 +9,38 @@
 
 /* append your custom style below */
 
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-weight: bold;
+  margin: 30px 0px 20px !important;
+  font-size: 30px;
+}
+
+h3 {
+  // font-weight: bold;
+  margin: 20px 0px !important;
+  font-size: 24px;
+}
+
+
+dt {
+  font-weight: normal;
+  font-size: 1.1em;
+}
+
+dd {
+  color: #999999;
+}
+
+hr {
+  margin: 40px 0;
+}
+
+
+
 #sidebar .site-subtitle {
   font-style: normal !important;
 }
