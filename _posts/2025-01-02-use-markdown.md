@@ -52,8 +52,8 @@ Jekyll is a static site generator that transforms plain text into static website
 ***bold and italic*** or ___bold and italic___ <br>
 <strong>bold</strong> and <em>italic</em> text using HTML syntax. 
 
-~~This is strikethrough text.~~ <br>
-<del>Strikethrough text using HTML.</del> 
+This is ~~strikethrough~~ text. <br>
+<del>Strikethrough</del> text using HTML. 
 
 ```markdown
 *italic* or _italic_ <br>
@@ -61,8 +61,8 @@ Jekyll is a static site generator that transforms plain text into static website
 ***bold and italic*** or ___bold and italic___ <br>
 <strong>bold</strong> and <em>italic</em> text using HTML syntax.
 
-~~This is strikethrough text.~~ <br>
-<del>Strikethrough text using HTML.</del> 
+This is ~~strikethrough~~ text. <br>
+<del>Strikethrough</del> text using HTML. 
 ```
 
 
@@ -140,7 +140,7 @@ Jekyll is a static site generator that transforms plain text into static website
 : _Definition of term 1_
 
 **Term 2**
-: ~~Wrong definition of term 2~~
+: ~~Wrong definition~~ of term 2
 
 ```markdown
 ***Term 1***
