@@ -6,7 +6,7 @@ description: Examples of using Markdown
 authors: [cotes, khoa_pham]
 categories: [Programming Hub, Tips & Tricks]
 tags: [blogging]
-pin: false
+pin: true
 math: true
 mermaid: true
 toc: true
