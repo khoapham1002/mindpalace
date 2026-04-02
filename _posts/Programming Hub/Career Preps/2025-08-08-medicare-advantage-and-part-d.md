@@ -12,8 +12,8 @@ toc: true
 comments: true
 ---
 
-# Medicare Advantage & Part D: A Look at How Actuaries Shape Senior Healthcare
-> *Written as part of my ongoing exploration into healthcare actuarial science.*
+<!-- ## Medicare Advantage & Part D    -->
+> A Look at How Actuaries Shape Senior Healthcare   
 
 When most people hear "Medicare," they think of the federal health program for seniors and certain disabled individuals.  
 But there’s more than one way to receive Medicare benefits — and one of the fastest-growing options is **Medicare Advantage**.
