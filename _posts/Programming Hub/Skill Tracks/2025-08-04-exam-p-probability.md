@@ -2,7 +2,7 @@
 layout: post
 title: Learn Exam P - Probability
 date: 2025-08-04 19:09 -0700
-description: Exam P (Probability) Study Guide
+description: Exam P Study Guide
 authors: [khoa_pham]
 categories: [Programming Hub, Skill Tracks]
 pin: false
