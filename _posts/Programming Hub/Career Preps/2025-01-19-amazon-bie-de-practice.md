@@ -14,6 +14,7 @@ comments: true
 
 > Link to [Amazon BIE/DE Description Requirements](https://khoapham1002.github.io/mindpalace/posts/amazon-bie-de-requirements/)
 
+
 ## SQL  
 ### Joins  
 **Tables:**
