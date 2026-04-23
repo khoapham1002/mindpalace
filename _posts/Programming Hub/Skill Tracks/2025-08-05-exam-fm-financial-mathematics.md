@@ -2,7 +2,7 @@
 layout: post
 title: Learn Exam FM - Financial Mathematics
 date: 2025-08-05 19:09 -0700
-description: Exam FM (Financial Mathematics) Study Guide
+description: Exam FM Study Guide
 authors: [khoa_pham]
 categories: [Programming Hub, Skill Tracks]
 pin: false
