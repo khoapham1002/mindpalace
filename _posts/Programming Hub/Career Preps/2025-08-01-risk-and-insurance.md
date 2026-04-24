@@ -5,6 +5,7 @@ date: 2025-08-01 18:15 -0700
 description: Introduction to insurance concepts for actuarial study
 author: khoa_pham
 categories: [Programming Hub, Career Preps]
+tags: [actuarial]
 pin: false
 math: true
 toc: true

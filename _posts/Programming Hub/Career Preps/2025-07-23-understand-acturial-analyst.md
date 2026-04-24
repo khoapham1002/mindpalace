@@ -5,6 +5,7 @@ date: 2025-07-23 15:58 -0700
 description: Actuary and Insurance Concepts Recap
 author: khoa_pham
 categories: [Programming Hub, Career Preps]
+tags: [actuarial]
 pin: false
 math: true
 mermaid: true

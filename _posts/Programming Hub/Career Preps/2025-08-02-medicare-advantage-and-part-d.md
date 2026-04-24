@@ -5,6 +5,7 @@ date: 2025-08-02 15:15 -0700
 description: Understand Medicare Advantage & Part D Plans
 author: khoa_pham
 categories: [Programming Hub, Career Preps]
+tags: [actuarial]
 pin: false
 math: true
 mermaid: true

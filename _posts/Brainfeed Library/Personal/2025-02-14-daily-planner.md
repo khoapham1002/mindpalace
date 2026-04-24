@@ -4,8 +4,7 @@ title: Daily Planner ⏰🏋️‍♂️
 date: 2025-02-14 21:59 -0800
 description: Personal daily schedule & fitness training program
 author: khoa_pham
-categories: [BrainFeed Library]
-tags: [Food4Thought]
+categories: [BrainFeed Library, Personal]
 pin: false
 math: true
 mermaid: true

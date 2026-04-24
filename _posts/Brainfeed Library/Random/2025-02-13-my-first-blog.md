@@ -4,7 +4,7 @@ title: Netflix and… Learn?
 date: 2025-02-13 03:00 -0800
 description: My First Blog
 author: khoa_pham
-categories: [BrainFeed Library]
+categories: [BrainFeed Library, Random]
 tags: [blogging]
 pin: false
 math: true
