@@ -3,7 +3,7 @@ layout: page
 title: My Gallery
 icon: fas fa-camera
 # icon: fas fa-photo-video
-order: 2
+order: 6
 toc: true
 ---
 
