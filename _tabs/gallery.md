@@ -30,10 +30,10 @@ toc: true
 _Library 1_
 
 <div class="photo-grid" data-aos="fade-up">
-    <img src="/assets/gallery/inspo1/inspo - 3.jpeg" title="inspo - 3" loading="lazy">
-    <img src="/assets/gallery/inspo1/inspo - 4.jpeg" title="inspo - 4" loading="lazy">
-    <img src="/assets/gallery/inspo1/inspo - 5.jpeg" title="inspo - 5" loading="lazy">
-    <img src="/assets/gallery/inspo1/inspo - 6.jpeg" title="inspo - 6" loading="lazy">
+    <img src="/assets/gallery/inspo1/inspo - 3.jpeg" title="inspo - 3" alt="inspo - 3" loading="lazy">
+    <img src="/assets/gallery/inspo1/inspo - 4.jpeg" title="inspo - 4" alt="inspo - 4" loading="lazy">
+    <img src="/assets/gallery/inspo1/inspo - 5.jpeg" title="inspo - 5" alt="inspo - 5" loading="lazy">
+    <img src="/assets/gallery/inspo1/inspo - 6.jpeg" title="inspo - 6" alt="inspo - 6" loading="lazy">
 </div>
 
 <br>
@@ -42,10 +42,10 @@ _Library 1_
 _Library 2_
 
 <div class="photo-grid" data-aos="fade-up">
-    <img src="/assets/gallery/inspo1/inspo - 7.jpeg" title="inspo - 7" loading="lazy">
-    <img src="/assets/gallery/inspo1/inspo - 8.jpeg" title="inspo - 8" loading="lazy">
-    <img src="/assets/gallery/inspo1/inspo - 9.jpeg" title="inspo - 9" loading="lazy">
-    <img src="/assets/gallery/inspo1/inspo - 10.jpeg" title="inspo - 10" loading="lazy">
+    <img src="/assets/gallery/inspo1/inspo - 7.jpeg" title="inspo - 7" alt="inspo - 7" loading="lazy">
+    <img src="/assets/gallery/inspo1/inspo - 8.jpeg" title="inspo - 8" alt="inspo - 8" loading="lazy">
+    <img src="/assets/gallery/inspo1/inspo - 9.jpeg" title="inspo - 9" alt="inspo - 9" loading="lazy">
+    <img src="/assets/gallery/inspo1/inspo - 10.jpeg" title="inspo - 10" alt="inspo - 10" loading="lazy">
 </div>
 
 
@@ -53,12 +53,12 @@ _Library 2_
 
 
 <div class="photo-grid" data-aos="fade-up">
-    <img src="/assets/gallery/inspo2/inspo2 - 1.jpeg" title="inspo2 - 1" loading="lazy">
-    <img src="/assets/gallery/inspo2/inspo2 - 2.jpeg" title="inspo2 - 2" loading="lazy">
-    <img src="/assets/gallery/inspo2/inspo2 - 3.jpeg" title="inspo2 - 3" loading="lazy">
-    <img src="/assets/gallery/inspo2/inspo2 - 5.jpeg" title="inspo2 - 5" loading="lazy">
-    <img src="/assets/gallery/inspo2/inspo2 - 4.jpeg" title="inspo2 - 4" loading="lazy">
-    <img src="/assets/gallery/inspo2/inspo2 - 6.jpeg" title="inspo2 - 6" loading="lazy">
+    <img src="/assets/gallery/inspo2/inspo2 - 1.jpeg" title="inspo2 - 1" alt="inspo2 - 1" loading="lazy">
+    <img src="/assets/gallery/inspo2/inspo2 - 2.jpeg" title="inspo2 - 2" alt="inspo2 - 2" loading="lazy">
+    <img src="/assets/gallery/inspo2/inspo2 - 3.jpeg" title="inspo2 - 3" alt="inspo2 - 3" loading="lazy">
+    <img src="/assets/gallery/inspo2/inspo2 - 5.jpeg" title="inspo2 - 5" alt="inspo2 - 5" loading="lazy">
+    <img src="/assets/gallery/inspo2/inspo2 - 4.jpeg" title="inspo2 - 4" alt="inspo2 - 4" loading="lazy">
+    <img src="/assets/gallery/inspo2/inspo2 - 6.jpeg" title="inspo2 - 6" alt="inspo2 - 6" loading="lazy">
 </div>
 
 
