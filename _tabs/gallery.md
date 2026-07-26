@@ -16,11 +16,12 @@ toc: true
     </ul>
 </details>
 
-> Since I host this site myself, there’s a limit to how many images and media files I can upload. For more of my creative work, check out the links at the bottom of the sidebar!
+> Since I host this site myself, there’s a limit to how many images and media files I can upload. <br>
+> For more of my creative work, check out the links at the bottom of the sidebar!
 {: .prompt-warning }
 
-💁‍♀️ Check out more **Inspos** on [VSCO](https://vsco.co/teenee3051/gallery)! 📸   
-💁‍♂️ Check out more **Reels** on [Instagram](https://www.instagram.com/koa_archives/reels)! 🎞️
+<!-- 💁‍♀️ Check out more **Inspos** on [VSCO](https://vsco.co/teenee3051/gallery)! 📸   
+💁‍♂️ Check out more **Reels** on [Instagram](https://www.instagram.com/koa_archives/reels)! 🎞️ -->
 
 * * *
 
@@ -50,7 +51,6 @@ _Library 2_
 
 
 ## Test Gallery 2
-
 
 <div class="photo-grid" data-aos="fade-up">
     <img src="/assets/gallery/inspo2/inspo2 - 1.jpeg" title="inspo2 - 1" alt="inspo2 - 1" loading="lazy">
